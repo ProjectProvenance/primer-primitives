@@ -1434,6 +1434,23 @@
     "scopes": ["STROKE_COLOR"]
   },
   {
+    "name": "borderColor/translucent",
+    "value": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 0.15
+    },
+    "type": "COLOR",
+    "alpha": 0.15,
+    "refId": "mode/borderColor/translucent",
+    "reference": "base/color/dark/base/color/white",
+    "collection": "mode",
+    "mode": "dark",
+    "group": "component (internal)",
+    "scopes": ["STROKE_COLOR"]
+  },
+  {
     "name": "borderColor/transparent",
     "value": {
       "r": 0,
@@ -5314,14 +5331,15 @@
   {
     "name": "control/fgColor/placeholder",
     "value": {
-      "r": 0.2823529411764706,
-      "g": 0.30980392156862746,
-      "b": 0.34509803921568627,
+      "r": 0.5215686274509804,
+      "g": 0.5568627450980392,
+      "b": 0.596078431372549,
       "a": 1
     },
     "type": "COLOR",
+    "isMix": true,
     "refId": "mode/control/fgColor/placeholder",
-    "reference": "base/color/dark/base/color/neutral/5",
+    "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
     "mode": "dark",
     "group": "component",
@@ -5490,23 +5508,6 @@
     "mode": "dark",
     "collection": "mode",
     "group": "component shadow"
-  },
-  {
-    "name": "avatar/borderColor",
-    "value": {
-      "r": 1,
-      "g": 1,
-      "b": 1,
-      "a": 0.15
-    },
-    "type": "COLOR",
-    "alpha": 0.15,
-    "refId": "mode/avatar/borderColor",
-    "reference": "base/color/dark/base/color/white",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "component (internal)",
-    "scopes": ["STROKE_COLOR"]
   },
   {
     "name": "avatar/bgColor",
@@ -8964,6 +8965,22 @@
     "mode": "dark",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
+  },
+  {
+    "name": "avatar/borderColor",
+    "value": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 0.15
+    },
+    "type": "COLOR",
+    "refId": "mode/avatar/borderColor",
+    "reference": "mode/borderColor/translucent",
+    "collection": "mode",
+    "mode": "dark",
+    "group": "component (internal)",
+    "scopes": ["STROKE_COLOR"]
   },
   {
     "name": "codeMirror/lines/bgColor",

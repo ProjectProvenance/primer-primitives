@@ -4558,11 +4558,10 @@
         "scopes": ["borderColor"]
       }
     },
-    "alpha": 0.15,
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.white}",
+      "value": "{borderColor.translucent}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -4571,8 +4570,7 @@
           "group": "component (internal)",
           "scopes": ["borderColor"]
         }
-      },
-      "alpha": 0.15
+      }
     },
     "name": "avatar-borderColor",
     "attributes": {},
@@ -4863,8 +4861,12 @@
     "path": ["control", "fgColor", "rest"]
   },
   "control-fgColor-placeholder": {
-    "value": "#484f58",
+    "value": "#858e98",
     "$type": "color",
+    "mix": {
+      "color": "#6e7681",
+      "weight": 0.2
+    },
     "$extensions": {
       "org.primer.figma": {
         "collection": "mode",
@@ -4876,8 +4878,12 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.neutral.5}",
+      "value": "{base.color.neutral.3}",
       "$type": "color",
+      "mix": {
+        "color": "{base.color.neutral.4}",
+        "weight": 0.2
+      },
       "$extensions": {
         "org.primer.figma": {
           "collection": "mode",
@@ -14415,6 +14421,37 @@
     "name": "borderColor-transparent",
     "attributes": {},
     "path": ["borderColor", "transparent"]
+  },
+  "borderColor-translucent": {
+    "value": "#ffffff26",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "component (internal)",
+        "scopes": ["borderColor"]
+      }
+    },
+    "alpha": 0.15,
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{base.color.white}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "component (internal)",
+          "scopes": ["borderColor"]
+        }
+      },
+      "alpha": 0.15
+    },
+    "name": "borderColor-translucent",
+    "attributes": {},
+    "path": ["borderColor", "translucent"]
   },
   "borderColor-neutral-muted": {
     "value": "#6e768166",

@@ -4550,9 +4550,9 @@
         "scopes": ["borderColor"]
       }
     },
-    "alpha": 0.9,
     "filePath": "src/tokens/functional/color/light/overrides/light.high-contrast.json5",
     "isSource": true,
+    "alpha": 0.9,
     "original": {
       "value": "{base.color.black}",
       "$type": "color",
@@ -4855,8 +4855,12 @@
     "path": ["control", "fgColor", "rest"]
   },
   "control-fgColor-placeholder": {
-    "value": "#66707b",
+    "value": "#616a75",
     "$type": "color",
+    "mix": {
+      "color": "#4b535d",
+      "weight": 0.2
+    },
     "$extensions": {
       "org.primer.figma": {
         "collection": "mode",
@@ -4870,6 +4874,10 @@
     "original": {
       "value": "{base.color.neutral.5}",
       "$type": "color",
+      "mix": {
+        "color": "{base.color.neutral.6}",
+        "weight": 0.2
+      },
       "$extensions": {
         "org.primer.figma": {
           "collection": "mode",
@@ -14418,6 +14426,37 @@
     "name": "borderColor-transparent",
     "attributes": {},
     "path": ["borderColor", "transparent"]
+  },
+  "borderColor-translucent": {
+    "value": "#20252c",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "light",
+        "group": "semantic",
+        "scopes": ["borderColor"]
+      }
+    },
+    "alpha": 1,
+    "filePath": "src/tokens/functional/color/light/overrides/light.high-contrast.json5",
+    "isSource": true,
+    "original": {
+      "value": "{base.color.neutral.8}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "light",
+          "group": "semantic",
+          "scopes": ["borderColor"]
+        }
+      },
+      "alpha": 1
+    },
+    "name": "borderColor-translucent",
+    "attributes": {},
+    "path": ["borderColor", "translucent"]
   },
   "borderColor-neutral-muted": {
     "value": "#88929d",

@@ -168,7 +168,7 @@
   --control-bgColor-disabled: #373e47b3;
   --control-bgColor-selected: #2d333b;
   --control-fgColor-rest: #adbac7;
-  --control-fgColor-placeholder: #545d68;
+  --control-fgColor-placeholder: #727f8c;
   --control-fgColor-disabled: #636e7b;
   --control-borderColor-rest: #444c56;
   --control-borderColor-emphasis: #606b77;
@@ -482,6 +482,7 @@
   --borderColor-emphasis: #545d68;
   --borderColor-disabled: #373e47b3;
   --borderColor-transparent: #00000000;
+  --borderColor-translucent: #cdd9e526;
   --borderColor-neutral-muted: #636e7b66;
   --borderColor-neutral-emphasis: #636e7b;
   --borderColor-accent-muted: #4184e466;
@@ -731,7 +732,7 @@
     --control-bgColor-disabled: #373e47b3;
     --control-bgColor-selected: #2d333b;
     --control-fgColor-rest: #adbac7;
-    --control-fgColor-placeholder: #545d68;
+    --control-fgColor-placeholder: #727f8c;
     --control-fgColor-disabled: #636e7b;
     --control-borderColor-rest: #444c56;
     --control-borderColor-emphasis: #606b77;
@@ -1045,6 +1046,7 @@
     --borderColor-emphasis: #545d68;
     --borderColor-disabled: #373e47b3;
     --borderColor-transparent: #00000000;
+    --borderColor-translucent: #cdd9e526;
     --borderColor-neutral-muted: #636e7b66;
     --borderColor-neutral-emphasis: #636e7b;
     --borderColor-accent-muted: #4184e466;

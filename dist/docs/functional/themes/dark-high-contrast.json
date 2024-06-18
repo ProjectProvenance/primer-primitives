@@ -4562,9 +4562,9 @@
         "scopes": ["borderColor"]
       }
     },
-    "alpha": 0.9,
     "filePath": "src/tokens/functional/color/dark/overrides/dark.high-contrast.json5",
     "isSource": true,
+    "alpha": 0.9,
     "original": {
       "value": "{base.color.white}",
       "$type": "color",
@@ -4867,8 +4867,12 @@
     "path": ["control", "fgColor", "rest"]
   },
   "control-fgColor-placeholder": {
-    "value": "#7a828e",
+    "value": "#b7bec7",
     "$type": "color",
+    "mix": {
+      "color": "#9ea7b3",
+      "weight": 0.2
+    },
     "$extensions": {
       "org.primer.figma": {
         "collection": "mode",
@@ -4880,8 +4884,12 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.neutral.5}",
+      "value": "{base.color.neutral.3}",
       "$type": "color",
+      "mix": {
+        "color": "{base.color.neutral.4}",
+        "weight": 0.2
+      },
       "$extensions": {
         "org.primer.figma": {
           "collection": "mode",
@@ -14437,6 +14445,37 @@
     "name": "borderColor-transparent",
     "attributes": {},
     "path": ["borderColor", "transparent"]
+  },
+  "borderColor-translucent": {
+    "value": "#7a828e",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "component (internal)",
+        "scopes": ["borderColor"]
+      }
+    },
+    "alpha": 1,
+    "filePath": "src/tokens/functional/color/dark/overrides/dark.high-contrast.json5",
+    "isSource": true,
+    "original": {
+      "value": "{base.color.neutral.5}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "component (internal)",
+          "scopes": ["borderColor"]
+        }
+      },
+      "alpha": 1
+    },
+    "name": "borderColor-translucent",
+    "attributes": {},
+    "path": ["borderColor", "translucent"]
   },
   "borderColor-neutral-muted": {
     "value": "#9ea7b3",

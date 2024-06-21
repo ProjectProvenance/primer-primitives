@@ -5513,7 +5513,7 @@
     "path": ["control", "danger", "bgColor", "active"]
   },
   "control-checked-bgColor-rest": {
-    "value": "#0969da",
+    "value": "#c9f04d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -5542,7 +5542,7 @@
     "path": ["control", "checked", "bgColor", "rest"]
   },
   "control-checked-bgColor-hover": {
-    "value": "#0860ca",
+    "value": "#a1cc59",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -5579,7 +5579,7 @@
     "path": ["control", "checked", "bgColor", "hover"]
   },
   "control-checked-bgColor-active": {
-    "value": "#0757ba",
+    "value": "#7aa866",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -5703,7 +5703,7 @@
     "path": ["control", "checked", "fgColor", "disabled"]
   },
   "control-checked-borderColor-rest": {
-    "value": "#0969da",
+    "value": "#c9f04d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -5732,7 +5732,7 @@
     "path": ["control", "checked", "borderColor", "rest"]
   },
   "control-checked-borderColor-hover": {
-    "value": "#0860ca",
+    "value": "#a1cc59",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -5769,7 +5769,7 @@
     "path": ["control", "checked", "borderColor", "hover"]
   },
   "control-checked-borderColor-active": {
-    "value": "#0757ba",
+    "value": "#7aa866",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -6228,7 +6228,7 @@
     "path": ["controlKnob", "borderColor", "disabled"]
   },
   "controlKnob-borderColor-checked": {
-    "value": "#0969da",
+    "value": "#c9f04d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -7507,7 +7507,7 @@
     "path": ["button", "outline", "bgColor", "rest"]
   },
   "button-outline-bgColor-hover": {
-    "value": "#0969da",
+    "value": "#c9f04d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -7536,7 +7536,7 @@
     "path": ["button", "outline", "bgColor", "hover"]
   },
   "button-outline-bgColor-active": {
-    "value": "#0757ba",
+    "value": "#7aa866",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -8301,7 +8301,7 @@
     "path": ["buttonCounter", "primary", "bgColor", "rest"]
   },
   "buttonCounter-outline-bgColor-rest": {
-    "value": "#0969da1a",
+    "value": "#c9f04d1a",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -8363,7 +8363,7 @@
     "path": ["buttonCounter", "outline", "bgColor", "hover"]
   },
   "buttonCounter-outline-bgColor-disabled": {
-    "value": "#0969da0d",
+    "value": "#c9f04d0d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -9206,7 +9206,7 @@
     "path": ["underlineNav", "iconColor", "rest"]
   },
   "selection-bgColor": {
-    "value": "#0969da33",
+    "value": "#c9f04d33",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -13582,7 +13582,7 @@
     "path": ["bgColor", "accent", "muted"]
   },
   "bgColor-accent-emphasis": {
-    "value": "#0969da",
+    "value": "#c9f04d",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -13598,7 +13598,7 @@
     "filePath": "src/tokens/functional/color/light/primitives-light.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.blue.5}",
+      "value": "{prov.color.neonGreen}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {

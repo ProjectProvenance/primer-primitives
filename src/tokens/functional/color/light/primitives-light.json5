@@ -460,7 +460,7 @@
         },
       },
       emphasis: {
-        $value: '{base.color.blue.5}',
+        $value: '{prov.color.neonGreen}',
         $type: 'color',
         $extensions: {
           'org.primer.figma': {

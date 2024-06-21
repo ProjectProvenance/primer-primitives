@@ -10,7 +10,7 @@
     "type": "COLOR",
     "refId": "mode/color/ansi/cyan-bright",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -25,7 +25,7 @@
     "type": "COLOR",
     "refId": "mode/color/ansi/cyan",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -34,7 +34,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -43,7 +43,7 @@
     "value": 6,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -52,7 +52,7 @@
     "value": 12,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -61,7 +61,7 @@
     "value": -3,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -75,7 +75,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -84,7 +84,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -93,7 +93,7 @@
     "value": 6,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -102,7 +102,7 @@
     "value": 18,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -111,7 +111,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -125,7 +125,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -134,7 +134,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -143,7 +143,7 @@
     "value": 3,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -152,7 +152,7 @@
     "value": 6,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -161,7 +161,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -175,7 +175,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -184,7 +184,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -193,7 +193,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -202,7 +202,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -211,7 +211,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -225,7 +225,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -234,7 +234,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -243,7 +243,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -252,7 +252,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -261,7 +261,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -275,7 +275,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -284,7 +284,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -293,7 +293,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -302,7 +302,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -311,7 +311,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -325,7 +325,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -341,7 +341,7 @@
     "refId": "mode/color/prettylights/syntax/sublimelinter/gutter/mark",
     "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -357,7 +357,7 @@
     "refId": "mode/color/prettylights/syntax/meta/diff/range",
     "reference": "base/color/dark/base/color/purple/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -373,7 +373,7 @@
     "refId": "mode/color/prettylights/syntax/markup/ignored/bg",
     "reference": "base/color/dark/base/color/blue/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -389,23 +389,23 @@
     "refId": "mode/color/prettylights/syntax/markup/ignored/text",
     "reference": "base/color/dark/base/color/neutral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/prettylights/syntax/markup/changed/bg",
     "value": {
-      "r": 0.35294117647058826,
-      "g": 0.11764705882352941,
-      "b": 0.00784313725490196,
+      "r": 0.403921568627451,
+      "g": 0.023529411764705882,
+      "b": 0.047058823529411764,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/markup/changed/bg",
-    "reference": "base/color/dark/base/color/orange/8",
+    "reference": "base/color/dark/base/color/red/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -413,47 +413,47 @@
     "name": "color/prettylights/syntax/markup/changed/text",
     "value": {
       "r": 1,
-      "g": 0.8745098039215686,
-      "b": 0.7137254901960784,
+      "g": 0.8627450980392157,
+      "b": 0.8431372549019608,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/markup/changed/text",
-    "reference": "base/color/dark/base/color/orange/0",
+    "reference": "base/color/dark/base/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/prettylights/syntax/markup/inserted/bg",
     "value": {
-      "r": 0.011764705882352941,
-      "g": 0.22745098039215686,
-      "b": 0.08627450980392157,
+      "r": 0.047058823529411764,
+      "g": 0.17647058823529413,
+      "b": 0.4196078431372549,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/markup/inserted/bg",
-    "reference": "base/color/dark/base/color/green/8",
+    "reference": "base/color/dark/base/color/blue/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/prettylights/syntax/markup/inserted/text",
     "value": {
-      "r": 0.6862745098039216,
-      "g": 0.9607843137254902,
-      "b": 0.7058823529411765,
+      "r": 0.792156862745098,
+      "g": 0.9098039215686274,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/markup/inserted/text",
-    "reference": "base/color/dark/base/color/green/0",
+    "reference": "base/color/dark/base/color/blue/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -469,7 +469,7 @@
     "refId": "mode/color/prettylights/syntax/markup/deleted/bg",
     "reference": "base/color/dark/base/color/red/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -485,7 +485,7 @@
     "refId": "mode/color/prettylights/syntax/markup/deleted/text",
     "reference": "base/color/dark/base/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -501,7 +501,7 @@
     "refId": "mode/color/prettylights/syntax/markup/bold",
     "reference": "base/color/dark/base/color/neutral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -517,7 +517,7 @@
     "refId": "mode/color/prettylights/syntax/markup/italic",
     "reference": "base/color/dark/base/color/neutral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -533,7 +533,7 @@
     "refId": "mode/color/prettylights/syntax/markup/heading",
     "reference": "base/color/dark/base/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -549,23 +549,23 @@
     "refId": "mode/color/prettylights/syntax/markup/list",
     "reference": "base/color/dark/base/color/yellow/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/prettylights/syntax/string-regexp",
     "value": {
-      "r": 0.49411764705882355,
-      "g": 0.9058823529411765,
-      "b": 0.5294117647058824,
+      "r": 0.6470588235294118,
+      "g": 0.8392156862745098,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/string-regexp",
-    "reference": "base/color/dark/base/color/green/1",
+    "reference": "base/color/dark/base/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -581,7 +581,7 @@
     "refId": "mode/color/prettylights/syntax/carriage/return/bg",
     "reference": "base/color/dark/base/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -597,7 +597,7 @@
     "refId": "mode/color/prettylights/syntax/carriage/return/text",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -613,7 +613,7 @@
     "refId": "mode/color/prettylights/syntax/invalid/illegal/bg",
     "reference": "base/color/dark/base/color/red/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -629,7 +629,7 @@
     "refId": "mode/color/prettylights/syntax/invalid/illegal/text",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -645,7 +645,7 @@
     "refId": "mode/color/prettylights/syntax/brackethighlighter/angle",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -661,7 +661,7 @@
     "refId": "mode/color/prettylights/syntax/brackethighlighter/unmatched",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -669,15 +669,15 @@
     "name": "color/prettylights/syntax/variable",
     "value": {
       "r": 1,
-      "g": 0.6509803921568628,
-      "b": 0.3411764705882353,
+      "g": 0.6313725490196078,
+      "b": 0.596078431372549,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/variable",
-    "reference": "base/color/dark/base/color/orange/2",
+    "reference": "base/color/dark/base/color/red/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -693,7 +693,7 @@
     "refId": "mode/color/prettylights/syntax/string",
     "reference": "base/color/dark/base/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -709,23 +709,23 @@
     "refId": "mode/color/prettylights/syntax/keyword",
     "reference": "base/color/dark/base/color/red/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/prettylights/syntax/entity-tag",
     "value": {
-      "r": 0.49411764705882355,
-      "g": 0.9058823529411765,
-      "b": 0.5294117647058824,
+      "r": 0.6470588235294118,
+      "g": 0.8392156862745098,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/prettylights/syntax/entity-tag",
-    "reference": "base/color/dark/base/color/green/1",
+    "reference": "base/color/dark/base/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -741,7 +741,7 @@
     "refId": "mode/color/prettylights/syntax/storage/modifier/import",
     "reference": "base/color/dark/base/color/neutral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -757,7 +757,7 @@
     "refId": "mode/color/prettylights/syntax/entity",
     "reference": "base/color/dark/base/color/purple/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -773,7 +773,7 @@
     "refId": "mode/color/prettylights/syntax/constant-other-reference-link",
     "reference": "base/color/dark/base/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -789,7 +789,7 @@
     "refId": "mode/color/prettylights/syntax/constant",
     "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -805,7 +805,7 @@
     "refId": "mode/color/prettylights/syntax/comment",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -821,7 +821,7 @@
     "refId": "mode/color/ansi/magenta-bright",
     "reference": "base/color/dark/base/color/purple/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -837,7 +837,7 @@
     "refId": "mode/color/ansi/magenta",
     "reference": "base/color/dark/base/color/purple/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -853,7 +853,7 @@
     "refId": "mode/color/ansi/blue-bright",
     "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -869,7 +869,7 @@
     "refId": "mode/color/ansi/blue",
     "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -885,7 +885,7 @@
     "refId": "mode/color/ansi/yellow-bright",
     "reference": "base/color/dark/base/color/yellow/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -901,39 +901,39 @@
     "refId": "mode/color/ansi/yellow",
     "reference": "base/color/dark/base/color/yellow/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/ansi/green-bright",
     "value": {
-      "r": 0.33725490196078434,
-      "g": 0.8274509803921568,
-      "b": 0.39215686274509803,
+      "r": 0.4745098039215686,
+      "g": 0.7529411764705882,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/ansi/green-bright",
-    "reference": "base/color/dark/base/color/green/2",
+    "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
   {
     "name": "color/ansi/green",
     "value": {
-      "r": 0.24705882352941178,
-      "g": 0.7254901960784313,
-      "b": 0.3137254901960784,
+      "r": 0.34509803921568627,
+      "g": 0.6509803921568628,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/color/ansi/green",
-    "reference": "base/color/dark/base/color/green/3",
+    "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -949,7 +949,7 @@
     "refId": "mode/color/ansi/red-bright",
     "reference": "base/color/dark/base/color/red/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -965,7 +965,7 @@
     "refId": "mode/color/ansi/red",
     "reference": "base/color/dark/base/color/red/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -981,7 +981,7 @@
     "refId": "mode/color/ansi/gray",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -997,7 +997,7 @@
     "refId": "mode/color/ansi/white-bright",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -1013,7 +1013,7 @@
     "refId": "mode/color/ansi/white",
     "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -1029,7 +1029,7 @@
     "refId": "mode/color/ansi/black-bright",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -1045,7 +1045,7 @@
     "refId": "mode/color/ansi/black",
     "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "syntax",
     "scopes": ["ALL_SCOPES"]
   },
@@ -1061,7 +1061,7 @@
     "refId": "mode/borderColor/sponsors-emphasis",
     "reference": "base/color/dark/base/color/pink/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1081,7 +1081,7 @@
     "refId": "mode/borderColor/sponsors-muted",
     "reference": "base/color/dark/base/color/pink/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1100,7 +1100,7 @@
     "refId": "mode/borderColor/upsell-emphasis",
     "reference": "base/color/dark/base/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1120,7 +1120,7 @@
     "refId": "mode/borderColor/upsell-muted",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1139,7 +1139,7 @@
     "refId": "mode/borderColor/done-emphasis",
     "reference": "base/color/dark/base/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1159,7 +1159,7 @@
     "refId": "mode/borderColor/done-muted",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1169,16 +1169,16 @@
   {
     "name": "borderColor/closed-emphasis",
     "value": {
-      "r": 0.8549019607843137,
-      "g": 0.21176470588235294,
-      "b": 0.2,
+      "r": 0.2823529411764706,
+      "g": 0.30980392156862746,
+      "b": 0.34509803921568627,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/borderColor/closed-emphasis",
-    "reference": "base/color/dark/base/color/red/5",
+    "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1188,6 +1188,45 @@
   {
     "name": "borderColor/closed-muted",
     "value": {
+      "r": 0.43137254901960786,
+      "g": 0.4627450980392157,
+      "b": 0.5058823529411764,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/closed-muted",
+    "reference": "base/color/dark/base/color/neutral/4",
+    "collection": "mode",
+    "mode": "dark tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
+    }
+  },
+  {
+    "name": "borderColor/open-emphasis",
+    "value": {
+      "r": 0.8549019607843137,
+      "g": 0.21176470588235294,
+      "b": 0.2,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/open-emphasis",
+    "reference": "base/color/dark/base/color/red/5",
+    "collection": "mode",
+    "mode": "dark tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
+    }
+  },
+  {
+    "name": "borderColor/open-muted",
+    "value": {
       "r": 0.9725490196078431,
       "g": 0.3176470588235294,
       "b": 0.28627450980392155,
@@ -1195,14 +1234,14 @@
     },
     "type": "COLOR",
     "alpha": 0.4,
-    "refId": "mode/borderColor/closed-muted",
+    "refId": "mode/borderColor/open-muted",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
-      "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
+      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
     }
   },
   {
@@ -1217,7 +1256,7 @@
     "refId": "mode/borderColor/danger-emphasis",
     "reference": "base/color/dark/base/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1237,7 +1276,7 @@
     "refId": "mode/borderColor/danger-muted",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1247,16 +1286,16 @@
   {
     "name": "borderColor/severe-emphasis",
     "value": {
-      "r": 0.7411764705882353,
-      "g": 0.33725490196078434,
-      "b": 0.11372549019607843,
+      "r": 0.8549019607843137,
+      "g": 0.21176470588235294,
+      "b": 0.2,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/borderColor/severe-emphasis",
-    "reference": "base/color/dark/base/color/orange/5",
+    "reference": "base/color/dark/base/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1266,17 +1305,17 @@
   {
     "name": "borderColor/severe-muted",
     "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
+      "r": 0.9725490196078431,
+      "g": 0.3176470588235294,
+      "b": 0.28627450980392155,
       "a": 0.4
     },
     "type": "COLOR",
     "alpha": 0.4,
     "refId": "mode/borderColor/severe-muted",
-    "reference": "base/color/dark/base/color/orange/4",
+    "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1295,7 +1334,7 @@
     "refId": "mode/borderColor/attention-emphasis",
     "reference": "base/color/dark/base/color/yellow/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1315,7 +1354,7 @@
     "refId": "mode/borderColor/attention-muted",
     "reference": "base/color/dark/base/color/yellow/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1325,16 +1364,16 @@
   {
     "name": "borderColor/success-emphasis",
     "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
+      "r": 0.12156862745098039,
+      "g": 0.43529411764705883,
+      "b": 0.9215686274509803,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/borderColor/success-emphasis",
-    "reference": "base/color/dark/base/color/green/5",
+    "reference": "base/color/dark/base/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1344,17 +1383,17 @@
   {
     "name": "borderColor/success-muted",
     "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
+      "r": 0.2196078431372549,
+      "g": 0.5450980392156862,
+      "b": 0.9921568627450981,
       "a": 0.4
     },
     "type": "COLOR",
     "alpha": 0.4,
     "refId": "mode/borderColor/success-muted",
-    "reference": "base/color/dark/base/color/green/4",
+    "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1373,7 +1412,7 @@
     "refId": "mode/borderColor/accent-emphasis",
     "reference": "base/color/dark/base/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1393,7 +1432,7 @@
     "refId": "mode/borderColor/accent-muted",
     "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1412,7 +1451,7 @@
     "refId": "mode/borderColor/neutral-emphasis",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"]
   },
@@ -1429,7 +1468,7 @@
     "refId": "mode/borderColor/neutral-muted",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"]
   },
@@ -1446,7 +1485,7 @@
     "refId": "mode/borderColor/translucent",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -1462,7 +1501,7 @@
     "refId": "mode/borderColor/transparent",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"]
   },
@@ -1478,7 +1517,7 @@
     "refId": "mode/borderColor/emphasis",
     "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"]
   },
@@ -1494,7 +1533,7 @@
     "refId": "mode/borderColor/default",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
@@ -1513,7 +1552,7 @@
     "refId": "mode/bgColor/sponsors-emphasis",
     "reference": "base/color/dark/base/color/pink/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1533,7 +1572,7 @@
     "refId": "mode/bgColor/sponsors-muted",
     "reference": "base/color/dark/base/color/pink/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1552,7 +1591,7 @@
     "refId": "mode/bgColor/upsell-emphasis",
     "reference": "base/color/dark/base/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1572,7 +1611,7 @@
     "refId": "mode/bgColor/upsell-muted",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1591,7 +1630,7 @@
     "refId": "mode/bgColor/done-emphasis",
     "reference": "base/color/dark/base/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1611,7 +1650,7 @@
     "refId": "mode/bgColor/done-muted",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1621,16 +1660,16 @@
   {
     "name": "bgColor/closed-emphasis",
     "value": {
-      "r": 0.8549019607843137,
-      "g": 0.21176470588235294,
-      "b": 0.2,
+      "r": 0.2823529411764706,
+      "g": 0.30980392156862746,
+      "b": 0.34509803921568627,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/bgColor/closed-emphasis",
-    "reference": "base/color/dark/base/color/red/5",
+    "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1640,21 +1679,60 @@
   {
     "name": "bgColor/closed-muted",
     "value": {
-      "r": 0.9725490196078431,
-      "g": 0.3176470588235294,
-      "b": 0.28627450980392155,
+      "r": 0.43137254901960786,
+      "g": 0.4627450980392157,
+      "b": 0.5058823529411764,
       "a": 0.15
     },
     "type": "COLOR",
     "alpha": 0.15,
     "refId": "mode/bgColor/closed-muted",
-    "reference": "base/color/dark/base/color/red/4",
+    "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-closed-muted) /* utility class: .color-bg-closed */"
+    }
+  },
+  {
+    "name": "bgColor/open-emphasis",
+    "value": {
+      "r": 0.8549019607843137,
+      "g": 0.21176470588235294,
+      "b": 0.2,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/open-emphasis",
+    "reference": "base/color/dark/base/color/red/5",
+    "collection": "mode",
+    "mode": "dark tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
+    }
+  },
+  {
+    "name": "bgColor/open-muted",
+    "value": {
+      "r": 0.9725490196078431,
+      "g": 0.3176470588235294,
+      "b": 0.28627450980392155,
+      "a": 0.1
+    },
+    "type": "COLOR",
+    "alpha": 0.1,
+    "refId": "mode/bgColor/open-muted",
+    "reference": "base/color/dark/base/color/red/4",
+    "collection": "mode",
+    "mode": "dark tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
     }
   },
   {
@@ -1669,7 +1747,7 @@
     "refId": "mode/bgColor/danger-emphasis",
     "reference": "base/color/dark/base/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1689,7 +1767,7 @@
     "refId": "mode/bgColor/danger-muted",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1699,16 +1777,16 @@
   {
     "name": "bgColor/severe-emphasis",
     "value": {
-      "r": 0.7411764705882353,
-      "g": 0.33725490196078434,
-      "b": 0.11372549019607843,
+      "r": 0.8549019607843137,
+      "g": 0.21176470588235294,
+      "b": 0.2,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/bgColor/severe-emphasis",
-    "reference": "base/color/dark/base/color/orange/5",
+    "reference": "base/color/dark/base/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1718,17 +1796,17 @@
   {
     "name": "bgColor/severe-muted",
     "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
+      "r": 0.9725490196078431,
+      "g": 0.3176470588235294,
+      "b": 0.28627450980392155,
       "a": 0.1
     },
     "type": "COLOR",
     "alpha": 0.1,
     "refId": "mode/bgColor/severe-muted",
-    "reference": "base/color/dark/base/color/orange/4",
+    "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1747,7 +1825,7 @@
     "refId": "mode/bgColor/attention-emphasis",
     "reference": "base/color/dark/base/color/yellow/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1767,7 +1845,7 @@
     "refId": "mode/bgColor/attention-muted",
     "reference": "base/color/dark/base/color/yellow/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1777,16 +1855,16 @@
   {
     "name": "bgColor/success-emphasis",
     "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
+      "r": 0.12156862745098039,
+      "g": 0.43529411764705883,
+      "b": 0.9215686274509803,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/bgColor/success-emphasis",
-    "reference": "base/color/dark/base/color/green/5",
+    "reference": "base/color/dark/base/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1796,17 +1874,17 @@
   {
     "name": "bgColor/success-muted",
     "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
+      "r": 0.2196078431372549,
+      "g": 0.5450980392156862,
+      "b": 0.9921568627450981,
       "a": 0.15
     },
     "type": "COLOR",
     "alpha": 0.15,
     "refId": "mode/bgColor/success-muted",
-    "reference": "base/color/dark/base/color/green/4",
+    "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1825,7 +1903,7 @@
     "refId": "mode/bgColor/accent-emphasis",
     "reference": "base/color/dark/base/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1845,7 +1923,7 @@
     "refId": "mode/bgColor/accent-muted",
     "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1864,7 +1942,7 @@
     "refId": "mode/bgColor/neutral-emphasis",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1881,7 +1959,7 @@
     "refId": "mode/bgColor/neutral-muted",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1897,7 +1975,7 @@
     "refId": "mode/bgColor/transparent",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -1917,7 +1995,7 @@
     "refId": "mode/bgColor/disabled",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1933,7 +2011,7 @@
     "refId": "mode/bgColor/black",
     "reference": "base/color/dark/base/color/black",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1949,7 +2027,7 @@
     "refId": "mode/bgColor/white",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1965,7 +2043,7 @@
     "refId": "mode/bgColor/inverse",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -1981,7 +2059,7 @@
     "refId": "mode/bgColor/emphasis",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2000,7 +2078,7 @@
     "refId": "mode/bgColor/inset",
     "reference": "base/color/dark/base/color/black",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL", "STROKE_COLOR"],
     "codeSyntax": {
@@ -2019,7 +2097,7 @@
     "refId": "mode/bgColor/muted",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL", "STROKE_COLOR"],
     "codeSyntax": {
@@ -2038,7 +2116,7 @@
     "refId": "mode/bgColor/default",
     "reference": "base/color/dark/base/color/neutral/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["FRAME_FILL", "SHAPE_FILL", "STROKE_COLOR"],
     "codeSyntax": {
@@ -2057,7 +2135,7 @@
     "refId": "mode/fgColor/sponsors",
     "reference": "base/color/dark/base/color/pink/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2076,7 +2154,7 @@
     "refId": "mode/fgColor/upsell",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2095,7 +2173,7 @@
     "refId": "mode/fgColor/done",
     "reference": "base/color/dark/base/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2105,20 +2183,39 @@
   {
     "name": "fgColor/closed",
     "value": {
+      "r": 0.43137254901960786,
+      "g": 0.4627450980392157,
+      "b": 0.5058823529411764,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/closed",
+    "reference": "base/color/dark/base/color/neutral/4",
+    "collection": "mode",
+    "mode": "dark tritanopia",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
+    }
+  },
+  {
+    "name": "fgColor/open",
+    "value": {
       "r": 0.9725490196078431,
       "g": 0.3176470588235294,
       "b": 0.28627450980392155,
       "a": 1
     },
     "type": "COLOR",
-    "refId": "mode/fgColor/closed",
+    "refId": "mode/fgColor/open",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
-      "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
+      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
     }
   },
   {
@@ -2133,7 +2230,7 @@
     "refId": "mode/fgColor/danger",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2143,16 +2240,16 @@
   {
     "name": "fgColor/severe",
     "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
+      "r": 0.9725490196078431,
+      "g": 0.3176470588235294,
+      "b": 0.28627450980392155,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/fgColor/severe",
-    "reference": "base/color/dark/base/color/orange/4",
+    "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2171,7 +2268,7 @@
     "refId": "mode/fgColor/attention",
     "reference": "base/color/dark/base/color/yellow/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2181,16 +2278,16 @@
   {
     "name": "fgColor/success",
     "value": {
-      "r": 0.24705882352941178,
-      "g": 0.7254901960784313,
-      "b": 0.3137254901960784,
+      "r": 0.34509803921568627,
+      "g": 0.6509803921568628,
+      "b": 1,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/fgColor/success",
-    "reference": "base/color/dark/base/color/green/3",
+    "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2210,7 +2307,7 @@
     "refId": "mode/fgColor/accent",
     "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2229,7 +2326,7 @@
     "refId": "mode/fgColor/neutral",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2245,7 +2342,7 @@
     "refId": "mode/fgColor/disabled",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2261,7 +2358,7 @@
     "refId": "mode/fgColor/black",
     "reference": "base/color/dark/base/color/black",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2277,7 +2374,7 @@
     "refId": "mode/fgColor/white",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2293,7 +2390,7 @@
     "refId": "mode/fgColor/onEmphasis",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2313,7 +2410,7 @@
     "refId": "mode/fgColor/muted",
     "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2333,7 +2430,7 @@
     "refId": "mode/fgColor/default",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -2352,7 +2449,7 @@
     "refId": "mode/label/coral/fgColor/active",
     "reference": "base/color/dark/base/display/color/coral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2368,7 +2465,7 @@
     "refId": "mode/label/coral/fgColor/hover",
     "reference": "base/color/dark/base/display/color/coral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2384,7 +2481,7 @@
     "refId": "mode/label/coral/fgColor/rest",
     "reference": "base/color/dark/base/display/color/coral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2400,7 +2497,7 @@
     "refId": "mode/label/coral/bgColor/active",
     "reference": "base/color/dark/base/display/color/coral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2416,7 +2513,7 @@
     "refId": "mode/label/coral/bgColor/hover",
     "reference": "base/color/dark/base/display/color/coral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2432,7 +2529,7 @@
     "refId": "mode/label/coral/bgColor/rest",
     "reference": "base/color/dark/base/display/color/coral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2448,7 +2545,7 @@
     "refId": "mode/label/pink/fgColor/active",
     "reference": "base/color/dark/base/display/color/pink/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2464,7 +2561,7 @@
     "refId": "mode/label/pink/fgColor/hover",
     "reference": "base/color/dark/base/display/color/pink/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2480,7 +2577,7 @@
     "refId": "mode/label/pink/fgColor/rest",
     "reference": "base/color/dark/base/display/color/pink/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2496,7 +2593,7 @@
     "refId": "mode/label/pink/bgColor/active",
     "reference": "base/color/dark/base/display/color/pink/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2512,7 +2609,7 @@
     "refId": "mode/label/pink/bgColor/hover",
     "reference": "base/color/dark/base/display/color/pink/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2528,7 +2625,7 @@
     "refId": "mode/label/pink/bgColor/rest",
     "reference": "base/color/dark/base/display/color/pink/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2544,7 +2641,7 @@
     "refId": "mode/label/plum/fgColor/active",
     "reference": "base/color/dark/base/display/color/plum/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2560,7 +2657,7 @@
     "refId": "mode/label/plum/fgColor/hover",
     "reference": "base/color/dark/base/display/color/plum/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2576,7 +2673,7 @@
     "refId": "mode/label/plum/fgColor/rest",
     "reference": "base/color/dark/base/display/color/plum/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2592,7 +2689,7 @@
     "refId": "mode/label/plum/bgColor/active",
     "reference": "base/color/dark/base/display/color/plum/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2608,7 +2705,7 @@
     "refId": "mode/label/plum/bgColor/hover",
     "reference": "base/color/dark/base/display/color/plum/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2624,7 +2721,7 @@
     "refId": "mode/label/plum/bgColor/rest",
     "reference": "base/color/dark/base/display/color/plum/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2640,7 +2737,7 @@
     "refId": "mode/label/blue/fgColor/active",
     "reference": "base/color/dark/base/display/color/blue/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2656,7 +2753,7 @@
     "refId": "mode/label/blue/fgColor/hover",
     "reference": "base/color/dark/base/display/color/blue/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2672,7 +2769,7 @@
     "refId": "mode/label/blue/fgColor/rest",
     "reference": "base/color/dark/base/display/color/blue/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2688,7 +2785,7 @@
     "refId": "mode/label/blue/bgColor/active",
     "reference": "base/color/dark/base/display/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2704,7 +2801,7 @@
     "refId": "mode/label/blue/bgColor/hover",
     "reference": "base/color/dark/base/display/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2720,7 +2817,7 @@
     "refId": "mode/label/blue/bgColor/rest",
     "reference": "base/color/dark/base/display/color/blue/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2736,7 +2833,7 @@
     "refId": "mode/label/indigo/fgColor/active",
     "reference": "base/color/dark/base/display/color/indigo/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2752,7 +2849,7 @@
     "refId": "mode/label/indigo/fgColor/hover",
     "reference": "base/color/dark/base/display/color/indigo/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2768,7 +2865,7 @@
     "refId": "mode/label/indigo/fgColor/rest",
     "reference": "base/color/dark/base/display/color/indigo/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2784,7 +2881,7 @@
     "refId": "mode/label/indigo/bgColor/active",
     "reference": "base/color/dark/base/display/color/indigo/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2800,7 +2897,7 @@
     "refId": "mode/label/indigo/bgColor/hover",
     "reference": "base/color/dark/base/display/color/indigo/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2816,7 +2913,7 @@
     "refId": "mode/label/indigo/bgColor/rest",
     "reference": "base/color/dark/base/display/color/indigo/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2832,7 +2929,7 @@
     "refId": "mode/label/cyan/fgColor/active",
     "reference": "base/color/dark/base/display/color/cyan/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2848,7 +2945,7 @@
     "refId": "mode/label/cyan/fgColor/hover",
     "reference": "base/color/dark/base/display/color/cyan/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2864,7 +2961,7 @@
     "refId": "mode/label/cyan/fgColor/rest",
     "reference": "base/color/dark/base/display/color/cyan/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2880,7 +2977,7 @@
     "refId": "mode/label/cyan/bgColor/active",
     "reference": "base/color/dark/base/display/color/cyan/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2896,7 +2993,7 @@
     "refId": "mode/label/cyan/bgColor/hover",
     "reference": "base/color/dark/base/display/color/cyan/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2912,7 +3009,7 @@
     "refId": "mode/label/cyan/bgColor/rest",
     "reference": "base/color/dark/base/display/color/cyan/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2928,7 +3025,7 @@
     "refId": "mode/label/teal/fgColor/active",
     "reference": "base/color/dark/base/display/color/teal/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2944,7 +3041,7 @@
     "refId": "mode/label/teal/fgColor/hover",
     "reference": "base/color/dark/base/display/color/teal/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2960,7 +3057,7 @@
     "refId": "mode/label/teal/fgColor/rest",
     "reference": "base/color/dark/base/display/color/teal/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -2976,7 +3073,7 @@
     "refId": "mode/label/teal/bgColor/active",
     "reference": "base/color/dark/base/display/color/teal/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -2992,7 +3089,7 @@
     "refId": "mode/label/teal/bgColor/hover",
     "reference": "base/color/dark/base/display/color/teal/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3008,7 +3105,7 @@
     "refId": "mode/label/teal/bgColor/rest",
     "reference": "base/color/dark/base/display/color/teal/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3024,7 +3121,7 @@
     "refId": "mode/label/pine/fgColor/active",
     "reference": "base/color/dark/base/display/color/pine/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3040,7 +3137,7 @@
     "refId": "mode/label/pine/fgColor/hover",
     "reference": "base/color/dark/base/display/color/pine/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3056,7 +3153,7 @@
     "refId": "mode/label/pine/fgColor/rest",
     "reference": "base/color/dark/base/display/color/pine/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3072,7 +3169,7 @@
     "refId": "mode/label/pine/bgColor/active",
     "reference": "base/color/dark/base/display/color/pine/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3088,7 +3185,7 @@
     "refId": "mode/label/pine/bgColor/hover",
     "reference": "base/color/dark/base/display/color/pine/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3104,7 +3201,7 @@
     "refId": "mode/label/pine/bgColor/rest",
     "reference": "base/color/dark/base/display/color/pine/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3120,7 +3217,7 @@
     "refId": "mode/label/lime/fgColor/active",
     "reference": "base/color/dark/base/display/color/lime/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3136,7 +3233,7 @@
     "refId": "mode/label/lime/fgColor/hover",
     "reference": "base/color/dark/base/display/color/lime/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3152,7 +3249,7 @@
     "refId": "mode/label/lime/fgColor/rest",
     "reference": "base/color/dark/base/display/color/lime/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3168,7 +3265,7 @@
     "refId": "mode/label/lime/bgColor/active",
     "reference": "base/color/dark/base/display/color/lime/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3184,7 +3281,7 @@
     "refId": "mode/label/lime/bgColor/hover",
     "reference": "base/color/dark/base/display/color/lime/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3200,7 +3297,7 @@
     "refId": "mode/label/lime/bgColor/rest",
     "reference": "base/color/dark/base/display/color/lime/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3216,7 +3313,7 @@
     "refId": "mode/label/olive/fgColor/active",
     "reference": "base/color/dark/base/display/color/olive/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3232,7 +3329,7 @@
     "refId": "mode/label/olive/fgColor/hover",
     "reference": "base/color/dark/base/display/color/olive/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3248,7 +3345,7 @@
     "refId": "mode/label/olive/fgColor/rest",
     "reference": "base/color/dark/base/display/color/olive/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3264,7 +3361,7 @@
     "refId": "mode/label/olive/bgColor/active",
     "reference": "base/color/dark/base/display/color/olive/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3280,7 +3377,7 @@
     "refId": "mode/label/olive/bgColor/hover",
     "reference": "base/color/dark/base/display/color/olive/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3296,7 +3393,7 @@
     "refId": "mode/label/olive/bgColor/rest",
     "reference": "base/color/dark/base/display/color/olive/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3312,7 +3409,7 @@
     "refId": "mode/label/lemon/fgColor/active",
     "reference": "base/color/dark/base/display/color/lemon/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3328,7 +3425,7 @@
     "refId": "mode/label/lemon/fgColor/hover",
     "reference": "base/color/dark/base/display/color/lemon/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3344,7 +3441,7 @@
     "refId": "mode/label/lemon/fgColor/rest",
     "reference": "base/color/dark/base/display/color/lemon/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3360,7 +3457,7 @@
     "refId": "mode/label/lemon/bgColor/active",
     "reference": "base/color/dark/base/display/color/lemon/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3376,7 +3473,7 @@
     "refId": "mode/label/lemon/bgColor/hover",
     "reference": "base/color/dark/base/display/color/lemon/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3392,7 +3489,7 @@
     "refId": "mode/label/lemon/bgColor/rest",
     "reference": "base/color/dark/base/display/color/lemon/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3408,7 +3505,7 @@
     "refId": "mode/label/brown/fgColor/active",
     "reference": "base/color/dark/base/display/color/brown/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3424,7 +3521,7 @@
     "refId": "mode/label/brown/fgColor/hover",
     "reference": "base/color/dark/base/display/color/brown/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3440,7 +3537,7 @@
     "refId": "mode/label/brown/fgColor/rest",
     "reference": "base/color/dark/base/display/color/brown/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3456,7 +3553,7 @@
     "refId": "mode/label/brown/bgColor/active",
     "reference": "base/color/dark/base/display/color/brown/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3472,7 +3569,7 @@
     "refId": "mode/label/brown/bgColor/hover",
     "reference": "base/color/dark/base/display/color/brown/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3488,7 +3585,7 @@
     "refId": "mode/label/brown/bgColor/rest",
     "reference": "base/color/dark/base/display/color/brown/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3504,7 +3601,7 @@
     "refId": "mode/label/auburn/fgColor/active",
     "reference": "base/color/dark/base/display/color/auburn/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3520,7 +3617,7 @@
     "refId": "mode/label/auburn/fgColor/hover",
     "reference": "base/color/dark/base/display/color/auburn/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3536,7 +3633,7 @@
     "refId": "mode/label/auburn/fgColor/rest",
     "reference": "base/color/dark/base/display/color/auburn/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3552,7 +3649,7 @@
     "refId": "mode/label/auburn/bgColor/active",
     "reference": "base/color/dark/base/display/color/auburn/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3568,7 +3665,7 @@
     "refId": "mode/label/auburn/bgColor/hover",
     "reference": "base/color/dark/base/display/color/auburn/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3584,7 +3681,7 @@
     "refId": "mode/label/auburn/bgColor/rest",
     "reference": "base/color/dark/base/display/color/auburn/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3600,7 +3697,7 @@
     "refId": "mode/label/gray/fgColor/active",
     "reference": "base/color/dark/base/display/color/gray/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3616,7 +3713,7 @@
     "refId": "mode/label/gray/fgColor/hover",
     "reference": "base/color/dark/base/display/color/gray/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3632,7 +3729,7 @@
     "refId": "mode/label/gray/fgColor/rest",
     "reference": "base/color/dark/base/display/color/gray/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3648,7 +3745,7 @@
     "refId": "mode/label/gray/bgColor/active",
     "reference": "base/color/dark/base/display/color/gray/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3664,7 +3761,7 @@
     "refId": "mode/label/gray/bgColor/hover",
     "reference": "base/color/dark/base/display/color/gray/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3680,7 +3777,7 @@
     "refId": "mode/label/gray/bgColor/rest",
     "reference": "base/color/dark/base/display/color/gray/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3696,7 +3793,7 @@
     "refId": "mode/label/yellow/fgColor/active",
     "reference": "base/color/dark/base/display/color/yellow/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3712,7 +3809,7 @@
     "refId": "mode/label/yellow/fgColor/hover",
     "reference": "base/color/dark/base/display/color/yellow/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3728,7 +3825,7 @@
     "refId": "mode/label/yellow/fgColor/rest",
     "reference": "base/color/dark/base/display/color/yellow/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3744,7 +3841,7 @@
     "refId": "mode/label/yellow/bgColor/active",
     "reference": "base/color/dark/base/display/color/yellow/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3760,7 +3857,7 @@
     "refId": "mode/label/yellow/bgColor/hover",
     "reference": "base/color/dark/base/display/color/yellow/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3776,7 +3873,7 @@
     "refId": "mode/label/yellow/bgColor/rest",
     "reference": "base/color/dark/base/display/color/yellow/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3792,7 +3889,7 @@
     "refId": "mode/label/red/fgColor/active",
     "reference": "base/color/dark/base/display/color/red/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3808,7 +3905,7 @@
     "refId": "mode/label/red/fgColor/hover",
     "reference": "base/color/dark/base/display/color/red/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3824,7 +3921,7 @@
     "refId": "mode/label/red/fgColor/rest",
     "reference": "base/color/dark/base/display/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3840,7 +3937,7 @@
     "refId": "mode/label/red/bgColor/active",
     "reference": "base/color/dark/base/display/color/red/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3856,7 +3953,7 @@
     "refId": "mode/label/red/bgColor/hover",
     "reference": "base/color/dark/base/display/color/red/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3872,7 +3969,7 @@
     "refId": "mode/label/red/bgColor/rest",
     "reference": "base/color/dark/base/display/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3888,7 +3985,7 @@
     "refId": "mode/label/purple/fgColor/active",
     "reference": "base/color/dark/base/display/color/purple/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3904,7 +4001,7 @@
     "refId": "mode/label/purple/fgColor/hover",
     "reference": "base/color/dark/base/display/color/purple/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3920,7 +4017,7 @@
     "refId": "mode/label/purple/fgColor/rest",
     "reference": "base/color/dark/base/display/color/purple/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -3936,7 +4033,7 @@
     "refId": "mode/label/purple/bgColor/active",
     "reference": "base/color/dark/base/display/color/purple/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3952,7 +4049,7 @@
     "refId": "mode/label/purple/bgColor/hover",
     "reference": "base/color/dark/base/display/color/purple/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3968,7 +4065,7 @@
     "refId": "mode/label/purple/bgColor/rest",
     "reference": "base/color/dark/base/display/color/purple/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -3984,7 +4081,7 @@
     "refId": "mode/label/orange/fgColor/active",
     "reference": "base/color/dark/base/display/color/orange/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4000,7 +4097,7 @@
     "refId": "mode/label/orange/fgColor/hover",
     "reference": "base/color/dark/base/display/color/orange/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4016,7 +4113,7 @@
     "refId": "mode/label/orange/fgColor/rest",
     "reference": "base/color/dark/base/display/color/orange/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4032,7 +4129,7 @@
     "refId": "mode/label/orange/bgColor/active",
     "reference": "base/color/dark/base/display/color/orange/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4048,7 +4145,7 @@
     "refId": "mode/label/orange/bgColor/hover",
     "reference": "base/color/dark/base/display/color/orange/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4064,7 +4161,7 @@
     "refId": "mode/label/orange/bgColor/rest",
     "reference": "base/color/dark/base/display/color/orange/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4080,7 +4177,7 @@
     "refId": "mode/label/green/fgColor/active",
     "reference": "base/color/dark/base/display/color/green/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4096,7 +4193,7 @@
     "refId": "mode/label/green/fgColor/hover",
     "reference": "base/color/dark/base/display/color/green/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4112,7 +4209,7 @@
     "refId": "mode/label/green/fgColor/rest",
     "reference": "base/color/dark/base/display/color/green/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4128,7 +4225,7 @@
     "refId": "mode/label/green/bgColor/active",
     "reference": "base/color/dark/base/display/color/green/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4144,7 +4241,7 @@
     "refId": "mode/label/green/bgColor/hover",
     "reference": "base/color/dark/base/display/color/green/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4160,7 +4257,7 @@
     "refId": "mode/label/green/bgColor/rest",
     "reference": "base/color/dark/base/display/color/green/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4176,7 +4273,7 @@
     "refId": "mode/underlineNav/borderColor/active",
     "reference": "base/color/dark/base/color/coral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -4192,7 +4289,7 @@
     "refId": "mode/timelineBadge/bgColor",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4208,7 +4305,7 @@
     "refId": "mode/sideNav/bgColor/selected",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4224,7 +4321,7 @@
     "refId": "mode/selectMenu/bgColor/active",
     "reference": "base/color/dark/base/color/blue/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4240,7 +4337,7 @@
     "refId": "mode/selectMenu/borderColor",
     "reference": "base/color/dark/base/color/neutral/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -4257,7 +4354,7 @@
     "refId": "mode/overlay/backdrop/bgColor",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4273,7 +4370,7 @@
     "refId": "mode/overlay/bgColor",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4289,7 +4386,7 @@
     "refId": "mode/menu/bgColor/active",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4305,7 +4402,7 @@
     "refId": "mode/reactionButton/selected/fgColor/hover",
     "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4322,7 +4419,7 @@
     "refId": "mode/reactionButton/selected/bgColor/rest",
     "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4338,7 +4435,7 @@
     "refId": "mode/buttonCounter/danger/fgColor/hover",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4355,7 +4452,7 @@
     "refId": "mode/buttonCounter/danger/bgColor/rest",
     "reference": "base/color/dark/base/color/red/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4372,7 +4469,7 @@
     "refId": "mode/buttonCounter/danger/bgColor/hover",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4388,7 +4485,7 @@
     "refId": "mode/buttonCounter/outline/fgColor/hover",
     "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4404,7 +4501,7 @@
     "refId": "mode/buttonCounter/outline/fgColor/rest",
     "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4421,7 +4518,7 @@
     "refId": "mode/buttonCounter/outline/bgColor/hover",
     "reference": "base/color/dark/base/color/blue/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4438,7 +4535,7 @@
     "refId": "mode/buttonCounter/outline/bgColor/rest",
     "reference": "base/color/dark/base/color/blue/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4455,7 +4552,7 @@
     "refId": "mode/buttonCounter/primary/bgColor/rest",
     "reference": "base/color/dark/base/color/green/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4472,7 +4569,7 @@
     "refId": "mode/buttonCounter/invisible/bgColor/rest",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4488,7 +4585,7 @@
     "refId": "mode/buttonCounter/default/bgColor/rest",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4504,7 +4601,7 @@
     "refId": "mode/button/star/iconColor",
     "reference": "base/color/dark/base/color/yellow/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4520,7 +4617,7 @@
     "refId": "mode/button/inactive/bgColor",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4536,7 +4633,7 @@
     "refId": "mode/button/inactive/fgColor",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4545,7 +4642,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4554,7 +4651,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4563,7 +4660,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4572,7 +4669,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4586,7 +4683,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4603,7 +4700,7 @@
     "refId": "mode/button/danger/borderColor/hover",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -4620,7 +4717,7 @@
     "refId": "mode/button/danger/bgColor/active",
     "reference": "base/color/dark/base/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4636,7 +4733,7 @@
     "refId": "mode/button/danger/bgColor/hover",
     "reference": "base/color/dark/base/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4652,7 +4749,7 @@
     "refId": "mode/button/danger/iconColor/hover",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4668,7 +4765,7 @@
     "refId": "mode/button/danger/fgColor/active",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4684,7 +4781,7 @@
     "refId": "mode/button/danger/fgColor/hover",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4693,7 +4790,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4702,7 +4799,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4711,7 +4808,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4720,7 +4817,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4734,7 +4831,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4751,7 +4848,7 @@
     "refId": "mode/button/outline/borderColor/hover",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -4767,7 +4864,7 @@
     "refId": "mode/button/outline/bgColor/disabled",
     "reference": "base/color/dark/base/color/neutral/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4783,7 +4880,7 @@
     "refId": "mode/button/outline/bgColor/active",
     "reference": "base/color/dark/base/color/blue/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4799,7 +4896,7 @@
     "refId": "mode/button/outline/bgColor/hover",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4815,7 +4912,7 @@
     "refId": "mode/button/outline/bgColor/rest",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4831,7 +4928,7 @@
     "refId": "mode/button/outline/fgColor/active",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4847,7 +4944,7 @@
     "refId": "mode/button/outline/fgColor/hover",
     "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4863,7 +4960,7 @@
     "refId": "mode/button/outline/fgColor/rest",
     "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4879,7 +4976,7 @@
     "refId": "mode/button/invisible/fgColor/hover",
     "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4888,7 +4985,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4897,7 +4994,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4906,7 +5003,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4915,7 +5012,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4929,7 +5026,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4946,24 +5043,24 @@
     "refId": "mode/button/primary/borderColor/rest",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
   {
     "name": "button/primary/bgColor/disabled",
     "value": {
-      "r": 0.06274509803921569,
-      "g": 0.34509803921568627,
-      "b": 0.13725490196078433,
+      "r": 0.37254901960784315,
+      "g": 0.6705882352941176,
+      "b": 0.996078431372549,
       "a": 1
     },
     "type": "COLOR",
     "isMix": true,
     "refId": "mode/button/primary/bgColor/disabled",
-    "reference": "base/color/dark/base/color/green/5",
+    "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -4980,7 +5077,7 @@
     "refId": "mode/button/primary/fgColor/disabled",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -4989,7 +5086,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -4998,7 +5095,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5007,7 +5104,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5016,7 +5113,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5030,7 +5127,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5046,7 +5143,7 @@
     "refId": "mode/counter/borderColor",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5062,7 +5159,7 @@
     "refId": "mode/controlKnob/bgColor/checked",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5078,7 +5175,7 @@
     "refId": "mode/controlKnob/bgColor/rest",
     "reference": "base/color/dark/base/color/black",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5094,7 +5191,7 @@
     "refId": "mode/controlTrack/borderColor/rest",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5111,7 +5208,7 @@
     "refId": "mode/controlTrack/bgColor/active",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5128,7 +5225,7 @@
     "refId": "mode/controlTrack/bgColor/hover",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5144,7 +5241,7 @@
     "refId": "mode/controlTrack/bgColor/rest",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5160,7 +5257,7 @@
     "refId": "mode/control/checked/fgColor/disabled",
     "reference": "base/color/dark/base/color/black",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5176,7 +5273,7 @@
     "refId": "mode/control/danger/fgColor/hover",
     "reference": "base/color/dark/base/color/red/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5192,7 +5289,7 @@
     "refId": "mode/control/transparent/borderColor/active",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5208,7 +5305,7 @@
     "refId": "mode/control/transparent/borderColor/hover",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5224,7 +5321,7 @@
     "refId": "mode/control/transparent/borderColor/rest",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5241,7 +5338,7 @@
     "refId": "mode/control/transparent/bgColor/selected",
     "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5258,7 +5355,7 @@
     "refId": "mode/control/transparent/bgColor/active",
     "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5275,7 +5372,7 @@
     "refId": "mode/control/transparent/bgColor/hover",
     "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5291,7 +5388,7 @@
     "refId": "mode/control/transparent/bgColor/rest",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5307,7 +5404,7 @@
     "refId": "mode/control/borderColor/selected",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5324,7 +5421,7 @@
     "refId": "mode/control/borderColor/emphasis",
     "reference": "base/color/dark/base/color/neutral/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5341,7 +5438,7 @@
     "refId": "mode/control/fgColor/placeholder",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5357,7 +5454,7 @@
     "refId": "mode/control/fgColor/rest",
     "reference": "base/color/dark/base/color/neutral/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5373,7 +5470,7 @@
     "refId": "mode/control/bgColor/selected",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5390,7 +5487,7 @@
     "refId": "mode/control/bgColor/active",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5407,7 +5504,7 @@
     "refId": "mode/control/bgColor/hover",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5423,7 +5520,7 @@
     "refId": "mode/control/bgColor/rest",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5439,7 +5536,7 @@
     "refId": "mode/avatarStack/fade/bgColor/muted",
     "reference": "base/color/dark/base/color/neutral/7",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5455,7 +5552,7 @@
     "refId": "mode/avatarStack/fade/bgColor/default",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5464,7 +5561,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5473,7 +5570,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5482,7 +5579,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5491,7 +5588,7 @@
     "value": 2,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5505,7 +5602,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "component shadow"
   },
@@ -5522,7 +5619,7 @@
     "refId": "mode/avatar/bgColor",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5538,7 +5635,7 @@
     "refId": "mode/display/pink/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/pink/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5554,7 +5651,7 @@
     "refId": "mode/display/pink/borderColor/muted",
     "reference": "base/color/dark/base/display/color/pink/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5570,7 +5667,7 @@
     "refId": "mode/display/pink/fgColor",
     "reference": "base/color/dark/base/display/color/pink/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5586,7 +5683,7 @@
     "refId": "mode/display/pink/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/pink/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5602,7 +5699,7 @@
     "refId": "mode/display/pink/bgColor/muted",
     "reference": "base/color/dark/base/display/color/pink/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5618,7 +5715,7 @@
     "refId": "mode/display/indigo/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/indigo/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5634,7 +5731,7 @@
     "refId": "mode/display/indigo/borderColor/muted",
     "reference": "base/color/dark/base/display/color/indigo/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5650,7 +5747,7 @@
     "refId": "mode/display/indigo/fgColor",
     "reference": "base/color/dark/base/display/color/indigo/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5666,7 +5763,7 @@
     "refId": "mode/display/indigo/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/indigo/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5682,7 +5779,7 @@
     "refId": "mode/display/indigo/bgColor/muted",
     "reference": "base/color/dark/base/display/color/indigo/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5698,7 +5795,7 @@
     "refId": "mode/display/cyan/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/cyan/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5714,7 +5811,7 @@
     "refId": "mode/display/cyan/borderColor/muted",
     "reference": "base/color/dark/base/display/color/cyan/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5730,7 +5827,7 @@
     "refId": "mode/display/cyan/fgColor",
     "reference": "base/color/dark/base/display/color/cyan/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5746,7 +5843,7 @@
     "refId": "mode/display/cyan/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/cyan/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5762,7 +5859,7 @@
     "refId": "mode/display/cyan/bgColor/muted",
     "reference": "base/color/dark/base/display/color/cyan/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5778,7 +5875,7 @@
     "refId": "mode/display/teal/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/teal/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5794,7 +5891,7 @@
     "refId": "mode/display/teal/borderColor/muted",
     "reference": "base/color/dark/base/display/color/teal/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5810,7 +5907,7 @@
     "refId": "mode/display/teal/fgColor",
     "reference": "base/color/dark/base/display/color/teal/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5826,7 +5923,7 @@
     "refId": "mode/display/teal/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/teal/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5842,7 +5939,7 @@
     "refId": "mode/display/teal/bgColor/muted",
     "reference": "base/color/dark/base/display/color/teal/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5858,7 +5955,7 @@
     "refId": "mode/display/pine/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/pine/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5874,7 +5971,7 @@
     "refId": "mode/display/pine/borderColor/muted",
     "reference": "base/color/dark/base/display/color/pine/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5890,7 +5987,7 @@
     "refId": "mode/display/pine/fgColor",
     "reference": "base/color/dark/base/display/color/pine/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5906,7 +6003,7 @@
     "refId": "mode/display/pine/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/pine/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5922,7 +6019,7 @@
     "refId": "mode/display/pine/bgColor/muted",
     "reference": "base/color/dark/base/display/color/pine/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -5938,7 +6035,7 @@
     "refId": "mode/display/lime/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/lime/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5954,7 +6051,7 @@
     "refId": "mode/display/lime/borderColor/muted",
     "reference": "base/color/dark/base/display/color/lime/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -5970,7 +6067,7 @@
     "refId": "mode/display/lime/fgColor",
     "reference": "base/color/dark/base/display/color/lime/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -5986,7 +6083,7 @@
     "refId": "mode/display/lime/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/lime/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6002,7 +6099,7 @@
     "refId": "mode/display/lime/bgColor/muted",
     "reference": "base/color/dark/base/display/color/lime/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6018,7 +6115,7 @@
     "refId": "mode/display/olive/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/olive/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6034,7 +6131,7 @@
     "refId": "mode/display/olive/borderColor/muted",
     "reference": "base/color/dark/base/display/color/olive/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6050,7 +6147,7 @@
     "refId": "mode/display/olive/fgColor",
     "reference": "base/color/dark/base/display/color/olive/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6066,7 +6163,7 @@
     "refId": "mode/display/olive/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/olive/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6082,7 +6179,7 @@
     "refId": "mode/display/olive/bgColor/muted",
     "reference": "base/color/dark/base/display/color/olive/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6098,7 +6195,7 @@
     "refId": "mode/display/lemon/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/lemon/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6114,7 +6211,7 @@
     "refId": "mode/display/lemon/borderColor/muted",
     "reference": "base/color/dark/base/display/color/lemon/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6130,7 +6227,7 @@
     "refId": "mode/display/lemon/fgColor",
     "reference": "base/color/dark/base/display/color/lemon/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6146,7 +6243,7 @@
     "refId": "mode/display/lemon/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/lemon/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6162,7 +6259,7 @@
     "refId": "mode/display/lemon/bgColor/muted",
     "reference": "base/color/dark/base/display/color/lemon/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6178,7 +6275,7 @@
     "refId": "mode/display/brown/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/brown/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6194,7 +6291,7 @@
     "refId": "mode/display/brown/borderColor/muted",
     "reference": "base/color/dark/base/display/color/brown/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6210,7 +6307,7 @@
     "refId": "mode/display/brown/fgColor",
     "reference": "base/color/dark/base/display/color/brown/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6226,7 +6323,7 @@
     "refId": "mode/display/brown/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/brown/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6242,7 +6339,7 @@
     "refId": "mode/display/brown/bgColor/muted",
     "reference": "base/color/dark/base/display/color/brown/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6258,7 +6355,7 @@
     "refId": "mode/display/auburn/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/auburn/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6274,7 +6371,7 @@
     "refId": "mode/display/auburn/borderColor/muted",
     "reference": "base/color/dark/base/display/color/auburn/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6290,7 +6387,7 @@
     "refId": "mode/display/auburn/fgColor",
     "reference": "base/color/dark/base/display/color/auburn/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6306,7 +6403,7 @@
     "refId": "mode/display/auburn/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/auburn/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6322,7 +6419,7 @@
     "refId": "mode/display/auburn/bgColor/muted",
     "reference": "base/color/dark/base/display/color/auburn/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6338,7 +6435,7 @@
     "refId": "mode/display/gray/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/gray/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6354,7 +6451,7 @@
     "refId": "mode/display/gray/borderColor/muted",
     "reference": "base/color/dark/base/display/color/gray/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6370,7 +6467,7 @@
     "refId": "mode/display/gray/fgColor",
     "reference": "base/color/dark/base/display/color/gray/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6386,7 +6483,7 @@
     "refId": "mode/display/gray/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/gray/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6402,7 +6499,7 @@
     "refId": "mode/display/gray/bgColor/muted",
     "reference": "base/color/dark/base/display/color/gray/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6418,7 +6515,7 @@
     "refId": "mode/display/yellow/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/yellow/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6434,7 +6531,7 @@
     "refId": "mode/display/yellow/borderColor/muted",
     "reference": "base/color/dark/base/display/color/yellow/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6450,7 +6547,7 @@
     "refId": "mode/display/yellow/fgColor",
     "reference": "base/color/dark/base/display/color/yellow/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6466,7 +6563,7 @@
     "refId": "mode/display/yellow/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/yellow/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6482,7 +6579,7 @@
     "refId": "mode/display/yellow/bgColor/muted",
     "reference": "base/color/dark/base/display/color/yellow/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6498,7 +6595,7 @@
     "refId": "mode/display/coral/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6514,7 +6611,7 @@
     "refId": "mode/display/coral/borderColor/muted",
     "reference": "base/color/dark/base/display/color/red/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6530,7 +6627,7 @@
     "refId": "mode/display/coral/fgColor",
     "reference": "base/color/dark/base/display/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6546,7 +6643,7 @@
     "refId": "mode/display/coral/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6562,7 +6659,7 @@
     "refId": "mode/display/coral/bgColor/muted",
     "reference": "base/color/dark/base/display/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6578,7 +6675,7 @@
     "refId": "mode/display/red/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6594,7 +6691,7 @@
     "refId": "mode/display/red/borderColor/muted",
     "reference": "base/color/dark/base/display/color/red/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6610,7 +6707,7 @@
     "refId": "mode/display/red/fgColor",
     "reference": "base/color/dark/base/display/color/red/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6626,7 +6723,7 @@
     "refId": "mode/display/red/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6642,7 +6739,7 @@
     "refId": "mode/display/red/bgColor/muted",
     "reference": "base/color/dark/base/display/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6658,7 +6755,7 @@
     "refId": "mode/display/plum/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/plum/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6674,7 +6771,7 @@
     "refId": "mode/display/plum/borderColor/muted",
     "reference": "base/color/dark/base/display/color/plum/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6690,7 +6787,7 @@
     "refId": "mode/display/plum/fgColor",
     "reference": "base/color/dark/base/display/color/plum/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6706,7 +6803,7 @@
     "refId": "mode/display/plum/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/plum/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6722,7 +6819,7 @@
     "refId": "mode/display/plum/bgColor/muted",
     "reference": "base/color/dark/base/display/color/plum/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6738,7 +6835,7 @@
     "refId": "mode/display/purple/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6754,7 +6851,7 @@
     "refId": "mode/display/purple/borderColor/muted",
     "reference": "base/color/dark/base/display/color/purple/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6770,7 +6867,7 @@
     "refId": "mode/display/purple/fgColor",
     "reference": "base/color/dark/base/display/color/purple/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6786,7 +6883,7 @@
     "refId": "mode/display/purple/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/purple/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6802,7 +6899,7 @@
     "refId": "mode/display/purple/bgColor/muted",
     "reference": "base/color/dark/base/display/color/purple/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6818,7 +6915,7 @@
     "refId": "mode/display/orange/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/orange/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6834,7 +6931,7 @@
     "refId": "mode/display/orange/borderColor/muted",
     "reference": "base/color/dark/base/display/color/orange/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6850,7 +6947,7 @@
     "refId": "mode/display/orange/fgColor",
     "reference": "base/color/dark/base/display/color/orange/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6866,7 +6963,7 @@
     "refId": "mode/display/orange/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/orange/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6882,7 +6979,7 @@
     "refId": "mode/display/orange/bgColor/muted",
     "reference": "base/color/dark/base/display/color/orange/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6898,7 +6995,7 @@
     "refId": "mode/display/green/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/green/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6914,7 +7011,7 @@
     "refId": "mode/display/green/borderColor/muted",
     "reference": "base/color/dark/base/display/color/green/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6930,7 +7027,7 @@
     "refId": "mode/display/green/fgColor",
     "reference": "base/color/dark/base/display/color/green/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -6946,7 +7043,7 @@
     "refId": "mode/display/green/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/green/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6962,7 +7059,7 @@
     "refId": "mode/display/green/bgColor/muted",
     "reference": "base/color/dark/base/display/color/green/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -6978,7 +7075,7 @@
     "refId": "mode/display/blue/borderColor/emphasis",
     "reference": "base/color/dark/base/display/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -6994,7 +7091,7 @@
     "refId": "mode/display/blue/borderColor/muted",
     "reference": "base/color/dark/base/display/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7010,7 +7107,7 @@
     "refId": "mode/display/blue/fgColor",
     "reference": "base/color/dark/base/display/color/blue/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7026,7 +7123,7 @@
     "refId": "mode/display/blue/bgColor/emphasis",
     "reference": "base/color/dark/base/display/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7042,7 +7139,7 @@
     "refId": "mode/display/blue/bgColor/muted",
     "reference": "base/color/dark/base/display/color/blue/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7058,7 +7155,7 @@
     "refId": "mode/data/gray/color/muted",
     "reference": "base/color/dark/base/display/color/gray/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7074,7 +7171,7 @@
     "refId": "mode/data/gray/color",
     "reference": "base/color/dark/base/display/color/gray/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7090,7 +7187,7 @@
     "refId": "mode/data/red/color/muted",
     "reference": "base/color/dark/base/display/color/red/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7106,7 +7203,7 @@
     "refId": "mode/data/red/color",
     "reference": "base/color/dark/base/display/color/red/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7122,7 +7219,7 @@
     "refId": "mode/data/pink/color/muted",
     "reference": "base/color/dark/base/display/color/pink/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7138,7 +7235,7 @@
     "refId": "mode/data/pink/color",
     "reference": "base/color/dark/base/display/color/pink/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7154,7 +7251,7 @@
     "refId": "mode/data/purple/color/muted",
     "reference": "base/color/dark/base/display/color/purple/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7170,7 +7267,7 @@
     "refId": "mode/data/purple/color",
     "reference": "base/color/dark/base/display/color/purple/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7186,7 +7283,7 @@
     "refId": "mode/data/teal/color/muted",
     "reference": "base/color/dark/base/display/color/teal/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7202,7 +7299,7 @@
     "refId": "mode/data/teal/color",
     "reference": "base/color/dark/base/display/color/teal/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7218,7 +7315,7 @@
     "refId": "mode/data/green/color/muted",
     "reference": "base/color/dark/base/display/color/green/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7234,7 +7331,7 @@
     "refId": "mode/data/green/color",
     "reference": "base/color/dark/base/display/color/green/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7250,7 +7347,7 @@
     "refId": "mode/data/yellow/color/muted",
     "reference": "base/color/dark/base/display/color/yellow/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7266,7 +7363,7 @@
     "refId": "mode/data/yellow/color",
     "reference": "base/color/dark/base/display/color/yellow/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7282,7 +7379,7 @@
     "refId": "mode/data/orange/color/muted",
     "reference": "base/color/dark/base/display/color/orange/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7298,7 +7395,7 @@
     "refId": "mode/data/orange/color",
     "reference": "base/color/dark/base/display/color/orange/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7314,7 +7411,7 @@
     "refId": "mode/data/auburn/color/muted",
     "reference": "base/color/dark/base/display/color/auburn/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7330,7 +7427,7 @@
     "refId": "mode/data/auburn/color",
     "reference": "base/color/dark/base/display/color/auburn/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7346,7 +7443,7 @@
     "refId": "mode/data/blue/color/muted",
     "reference": "base/color/dark/base/display/color/blue/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7362,7 +7459,7 @@
     "refId": "mode/data/blue/color",
     "reference": "base/color/dark/base/display/color/blue/5",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7378,7 +7475,7 @@
     "refId": "mode/headerSearch/borderColor",
     "reference": "base/color/dark/base/color/neutral/6",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7394,7 +7491,7 @@
     "refId": "mode/headerSearch/bgColor",
     "reference": "base/color/dark/base/color/neutral/9",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7410,7 +7507,7 @@
     "refId": "mode/header/borderColor/divider",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7427,7 +7524,7 @@
     "refId": "mode/header/bgColor",
     "reference": "base/color/dark/base/color/neutral/8",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7443,7 +7540,7 @@
     "refId": "mode/header/fgColor/logo",
     "reference": "base/color/dark/base/color/neutral/0",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7460,7 +7557,7 @@
     "refId": "mode/header/fgColor/default",
     "reference": "base/color/dark/base/color/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7468,15 +7565,15 @@
     "name": "codeMirror/syntax/fgColor/variable",
     "value": {
       "r": 1,
-      "g": 0.6509803921568628,
-      "b": 0.3411764705882353,
+      "g": 0.6313725490196078,
+      "b": 0.596078431372549,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/codeMirror/syntax/fgColor/variable",
-    "reference": "base/color/dark/base/color/orange/2",
+    "reference": "base/color/dark/base/color/red/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7492,7 +7589,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/support",
     "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7508,7 +7605,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/string",
     "reference": "base/color/dark/base/color/blue/1",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7524,7 +7621,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/storage",
     "reference": "base/color/dark/base/color/red/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7540,7 +7637,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/keyword",
     "reference": "base/color/dark/base/color/red/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7556,7 +7653,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/entity",
     "reference": "base/color/dark/base/color/purple/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7572,7 +7669,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/constant",
     "reference": "base/color/dark/base/color/blue/2",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7588,7 +7685,7 @@
     "refId": "mode/codeMirror/syntax/fgColor/comment",
     "reference": "base/color/dark/base/color/neutral/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7605,7 +7702,7 @@
     "refId": "mode/diffBlob/deletion/bgColor/word",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7622,7 +7719,7 @@
     "refId": "mode/diffBlob/deletion/bgColor/line",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7639,58 +7736,58 @@
     "refId": "mode/diffBlob/deletion/bgColor/num",
     "reference": "base/color/dark/base/color/red/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
   {
     "name": "diffBlob/addition/bgColor/word",
     "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
+      "r": 0.2196078431372549,
+      "g": 0.5450980392156862,
+      "b": 0.9921568627450981,
       "a": 0.4
     },
     "type": "COLOR",
     "alpha": 0.4,
     "refId": "mode/diffBlob/addition/bgColor/word",
-    "reference": "base/color/dark/base/color/green/4",
+    "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
   {
     "name": "diffBlob/addition/bgColor/line",
     "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
+      "r": 0.2196078431372549,
+      "g": 0.5450980392156862,
+      "b": 0.9921568627450981,
       "a": 0.15
     },
     "type": "COLOR",
     "alpha": 0.15,
     "refId": "mode/diffBlob/addition/bgColor/line",
-    "reference": "base/color/dark/base/color/green/4",
+    "reference": "base/color/dark/base/color/blue/4",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
   {
     "name": "diffBlob/addition/bgColor/num",
     "value": {
-      "r": 0.24705882352941178,
-      "g": 0.7254901960784313,
-      "b": 0.3137254901960784,
+      "r": 0.34509803921568627,
+      "g": 0.6509803921568628,
+      "b": 1,
       "a": 0.3
     },
     "type": "COLOR",
     "alpha": 0.3,
     "refId": "mode/diffBlob/addition/bgColor/num",
-    "reference": "base/color/dark/base/color/green/3",
+    "reference": "base/color/dark/base/color/blue/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7707,7 +7804,7 @@
     "refId": "mode/highlight/neutral/bgColor",
     "reference": "base/color/dark/base/color/yellow/3",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7723,47 +7820,9 @@
     "refId": "mode/topicTag/borderColor",
     "reference": "base/color/dark/base/color/transparent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
-  },
-  {
-    "name": "borderColor/open-emphasis",
-    "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/open-emphasis",
-    "reference": "mode/borderColor/success-emphasis",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
-    }
-  },
-  {
-    "name": "borderColor/open-muted",
-    "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/open-muted",
-    "reference": "mode/borderColor/success-muted",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
-    }
   },
   {
     "name": "borderColor/disabled",
@@ -7777,7 +7836,7 @@
     "refId": "mode/borderColor/disabled",
     "reference": "mode/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7794,69 +7853,11 @@
     "refId": "mode/borderColor/muted",
     "reference": "mode/borderColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-muted) /* utility class: .color-border-muted */"
-    }
-  },
-  {
-    "name": "bgColor/open-emphasis",
-    "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/open-emphasis",
-    "reference": "mode/bgColor/success-emphasis",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
-    }
-  },
-  {
-    "name": "bgColor/open-muted",
-    "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6274509803921569,
-      "b": 0.2627450980392157,
-      "a": 0.1
-    },
-    "type": "COLOR",
-    "alpha": 0.1,
-    "refId": "mode/bgColor/open-muted",
-    "reference": "mode/bgColor/success-muted",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
-    }
-  },
-  {
-    "name": "fgColor/open",
-    "value": {
-      "r": 0.24705882352941178,
-      "g": 0.7254901960784313,
-      "b": 0.3137254901960784,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/open",
-    "reference": "mode/fgColor/success",
-    "collection": "mode",
-    "mode": "dark",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
     }
   },
   {
@@ -7871,7 +7872,7 @@
     "refId": "mode/fgColor/link",
     "reference": "mode/fgColor/accent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "semantic",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
@@ -7890,7 +7891,7 @@
     "refId": "mode/card/bgColor",
     "reference": "mode/bgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7907,7 +7908,7 @@
     "refId": "mode/selection/bgColor",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7923,7 +7924,7 @@
     "refId": "mode/underlineNav/iconColor/rest",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -7939,7 +7940,7 @@
     "refId": "mode/underlineNav/borderColor/hover",
     "reference": "mode/borderColor/neutral-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7955,7 +7956,7 @@
     "refId": "mode/treeViewItem/leadingVisual/iconColor/rest",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -7971,7 +7972,7 @@
     "refId": "mode/focus/outlineColor",
     "reference": "mode/borderColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -7989,7 +7990,7 @@
     "refId": "mode/reactionButton/selected/bgColor/hover",
     "reference": "mode/reactionButton/selected/bgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8006,7 +8007,7 @@
     "refId": "mode/buttonCounter/danger/fgColor/disabled",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8022,7 +8023,7 @@
     "refId": "mode/buttonCounter/danger/fgColor/rest",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8039,7 +8040,7 @@
     "refId": "mode/buttonCounter/danger/bgColor/disabled",
     "reference": "mode/bgColor/danger-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8056,7 +8057,7 @@
     "refId": "mode/buttonCounter/outline/fgColor/disabled",
     "reference": "mode/fgColor/accent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8073,7 +8074,7 @@
     "refId": "mode/buttonCounter/outline/bgColor/disabled",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8089,7 +8090,7 @@
     "refId": "mode/button/danger/borderColor/active",
     "reference": "mode/button/danger/borderColor/hover",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8105,7 +8106,7 @@
     "refId": "mode/button/danger/borderColor/rest",
     "reference": "mode/borderColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8121,7 +8122,7 @@
     "refId": "mode/button/danger/bgColor/rest",
     "reference": "mode/control/bgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8137,7 +8138,7 @@
     "refId": "mode/button/danger/iconColor/rest",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8154,7 +8155,7 @@
     "refId": "mode/button/danger/fgColor/disabled",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8170,7 +8171,7 @@
     "refId": "mode/button/danger/fgColor/rest",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8186,7 +8187,7 @@
     "refId": "mode/button/outline/borderColor/selected",
     "reference": "mode/button/outline/borderColor/hover",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8203,7 +8204,7 @@
     "refId": "mode/button/outline/fgColor/disabled",
     "reference": "mode/fgColor/accent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8219,7 +8220,7 @@
     "refId": "mode/button/invisible/borderColor/hover",
     "reference": "mode/control/transparent/borderColor/hover",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8235,7 +8236,7 @@
     "refId": "mode/button/invisible/borderColor/rest",
     "reference": "mode/control/transparent/borderColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8251,7 +8252,7 @@
     "refId": "mode/button/invisible/bgColor/active",
     "reference": "mode/control/transparent/bgColor/active",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8267,7 +8268,7 @@
     "refId": "mode/button/invisible/bgColor/hover",
     "reference": "mode/control/transparent/bgColor/hover",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8283,7 +8284,7 @@
     "refId": "mode/button/invisible/bgColor/rest",
     "reference": "mode/control/transparent/bgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8299,7 +8300,7 @@
     "refId": "mode/button/invisible/iconColor/hover",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8315,7 +8316,7 @@
     "refId": "mode/button/invisible/iconColor/rest",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8331,23 +8332,23 @@
     "refId": "mode/button/invisible/fgColor/rest",
     "reference": "mode/fgColor/accent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
   {
     "name": "button/primary/borderColor/disabled",
     "value": {
-      "r": 0.06274509803921569,
-      "g": 0.34509803921568627,
-      "b": 0.13725490196078433,
+      "r": 0.37254901960784315,
+      "g": 0.6705882352941176,
+      "b": 0.996078431372549,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/button/primary/borderColor/disabled",
     "reference": "mode/button/primary/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8363,7 +8364,7 @@
     "refId": "mode/button/primary/borderColor/active",
     "reference": "mode/button/primary/borderColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8379,16 +8380,16 @@
     "refId": "mode/button/primary/borderColor/hover",
     "reference": "mode/button/primary/borderColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
   {
     "name": "button/primary/bgColor/active",
     "value": {
-      "r": 0.1803921568627451,
-      "g": 0.6039215686274509,
-      "b": 0.25098039215686274,
+      "r": 0.21176470588235294,
+      "g": 0.5215686274509804,
+      "b": 0.9529411764705882,
       "a": 1
     },
     "type": "COLOR",
@@ -8396,16 +8397,16 @@
     "refId": "mode/button/primary/bgColor/active",
     "reference": "mode/bgColor/success-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
   {
     "name": "button/primary/bgColor/hover",
     "value": {
-      "r": 0.1607843137254902,
-      "g": 0.5647058823529412,
-      "b": 0.23137254901960785,
+      "r": 0.16470588235294117,
+      "g": 0.47843137254901963,
+      "b": 0.9372549019607843,
       "a": 1
     },
     "type": "COLOR",
@@ -8413,23 +8414,23 @@
     "refId": "mode/button/primary/bgColor/hover",
     "reference": "mode/bgColor/success-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
   {
     "name": "button/primary/bgColor/rest",
     "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
+      "r": 0.12156862745098039,
+      "g": 0.43529411764705883,
+      "b": 0.9215686274509803,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/button/primary/bgColor/rest",
     "reference": "mode/bgColor/success-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8445,7 +8446,7 @@
     "refId": "mode/button/primary/iconColor/rest",
     "reference": "mode/fgColor/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8461,7 +8462,7 @@
     "refId": "mode/button/primary/fgColor/rest",
     "reference": "mode/fgColor/white",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8477,7 +8478,7 @@
     "refId": "mode/button/default/borderColor/rest",
     "reference": "mode/borderColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8493,7 +8494,7 @@
     "refId": "mode/button/default/bgColor/selected",
     "reference": "mode/control/bgColor/active",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8509,7 +8510,7 @@
     "refId": "mode/button/default/bgColor/active",
     "reference": "mode/control/bgColor/active",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8525,7 +8526,7 @@
     "refId": "mode/button/default/bgColor/hover",
     "reference": "mode/control/bgColor/hover",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8541,7 +8542,7 @@
     "refId": "mode/button/default/bgColor/rest",
     "reference": "mode/control/bgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8557,7 +8558,7 @@
     "refId": "mode/button/default/fgColor/rest",
     "reference": "mode/control/fgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8573,7 +8574,7 @@
     "refId": "mode/controlKnob/borderColor/rest",
     "reference": "mode/control/borderColor/emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8589,7 +8590,7 @@
     "refId": "mode/controlTrack/borderColor/disabled",
     "reference": "mode/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8605,7 +8606,7 @@
     "refId": "mode/controlTrack/fgColor/disabled",
     "reference": "mode/fgColor/onEmphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8621,7 +8622,7 @@
     "refId": "mode/controlTrack/fgColor/rest",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8637,7 +8638,7 @@
     "refId": "mode/controlTrack/bgColor/disabled",
     "reference": "mode/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8653,7 +8654,7 @@
     "refId": "mode/control/checked/borderColor/disabled",
     "reference": "mode/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8670,7 +8671,7 @@
     "refId": "mode/control/checked/borderColor/active",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8687,7 +8688,7 @@
     "refId": "mode/control/checked/borderColor/hover",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8703,7 +8704,7 @@
     "refId": "mode/control/checked/borderColor/rest",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8719,7 +8720,7 @@
     "refId": "mode/control/checked/fgColor/rest",
     "reference": "mode/fgColor/onEmphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8735,7 +8736,7 @@
     "refId": "mode/control/checked/bgColor/disabled",
     "reference": "mode/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8752,7 +8753,7 @@
     "refId": "mode/control/checked/bgColor/active",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8769,7 +8770,7 @@
     "refId": "mode/control/checked/bgColor/hover",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8785,7 +8786,7 @@
     "refId": "mode/control/checked/bgColor/rest",
     "reference": "mode/bgColor/accent-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8802,7 +8803,7 @@
     "refId": "mode/control/danger/bgColor/active",
     "reference": "mode/bgColor/danger-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8818,7 +8819,7 @@
     "refId": "mode/control/danger/bgColor/hover",
     "reference": "mode/bgColor/danger-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8834,7 +8835,7 @@
     "refId": "mode/control/danger/fgColor/rest",
     "reference": "mode/fgColor/danger",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8850,7 +8851,7 @@
     "refId": "mode/control/transparent/bgColor/disabled",
     "reference": "mode/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8866,7 +8867,7 @@
     "refId": "mode/control/iconColor/rest",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8882,7 +8883,7 @@
     "refId": "mode/control/borderColor/warning",
     "reference": "mode/borderColor/attention-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8898,23 +8899,23 @@
     "refId": "mode/control/borderColor/danger",
     "reference": "mode/borderColor/danger-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
   {
     "name": "control/borderColor/success",
     "value": {
-      "r": 0.13725490196078433,
-      "g": 0.5254901960784314,
-      "b": 0.21176470588235294,
+      "r": 0.12156862745098039,
+      "g": 0.43529411764705883,
+      "b": 0.9215686274509803,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/control/borderColor/success",
     "reference": "mode/borderColor/success-emphasis",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8930,7 +8931,7 @@
     "refId": "mode/control/borderColor/rest",
     "reference": "mode/borderColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8946,7 +8947,7 @@
     "refId": "mode/control/fgColor/disabled",
     "reference": "mode/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -8962,7 +8963,7 @@
     "refId": "mode/control/bgColor/disabled",
     "reference": "mode/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -8978,7 +8979,7 @@
     "refId": "mode/avatar/borderColor",
     "reference": "mode/borderColor/translucent",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -8994,7 +8995,7 @@
     "refId": "mode/codeMirror/lines/bgColor",
     "reference": "mode/bgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9010,7 +9011,7 @@
     "refId": "mode/codeMirror/matchingBracket/fgColor",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9026,7 +9027,7 @@
     "refId": "mode/codeMirror/activeline/bgColor",
     "reference": "mode/bgColor/neutral-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9042,7 +9043,7 @@
     "refId": "mode/codeMirror/selection/bgColor",
     "reference": "mode/borderColor/accent-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9058,7 +9059,7 @@
     "refId": "mode/codeMirror/cursor/fgColor",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9074,7 +9075,7 @@
     "refId": "mode/codeMirror/lineNumber/fgColor",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9090,7 +9091,7 @@
     "refId": "mode/codeMirror/gutterMarker/fgColor/muted",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9106,7 +9107,7 @@
     "refId": "mode/codeMirror/gutterMarker/fgColor/default",
     "reference": "mode/bgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9122,7 +9123,7 @@
     "refId": "mode/codeMirror/gutters/bgColor",
     "reference": "mode/bgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9138,7 +9139,7 @@
     "refId": "mode/codeMirror/bgColor",
     "reference": "mode/bgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9154,7 +9155,7 @@
     "refId": "mode/codeMirror/fgColor",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9170,7 +9171,7 @@
     "refId": "mode/diffBlob/expander/iconColor",
     "reference": "mode/fgColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9186,7 +9187,7 @@
     "refId": "mode/diffBlob/hunk/bgColor/num",
     "reference": "mode/borderColor/accent-muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9202,7 +9203,7 @@
     "refId": "mode/diffBlob/deletion/fgColor/num",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9218,7 +9219,7 @@
     "refId": "mode/diffBlob/deletion/fgColor/text",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9234,7 +9235,7 @@
     "refId": "mode/diffBlob/addition/fgColor/num",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9250,7 +9251,7 @@
     "refId": "mode/diffBlob/addition/fgColor/text",
     "reference": "mode/fgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9266,7 +9267,7 @@
     "refId": "mode/page/header/bgColor",
     "reference": "mode/bgColor/default",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9282,7 +9283,7 @@
     "refId": "mode/overlay/borderColor",
     "reference": "mode/borderColor/muted",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["ALL_SCOPES"]
   },
@@ -9298,7 +9299,7 @@
     "refId": "mode/reactionButton/selected/fgColor/rest",
     "reference": "mode/fgColor/link",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9314,7 +9315,7 @@
     "refId": "mode/button/danger/bgColor/disabled",
     "reference": "mode/control/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9330,7 +9331,7 @@
     "refId": "mode/button/invisible/bgColor/disabled",
     "reference": "mode/control/transparent/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9346,7 +9347,7 @@
     "refId": "mode/button/invisible/iconColor/disabled",
     "reference": "mode/control/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9362,7 +9363,7 @@
     "refId": "mode/button/invisible/fgColor/disabled",
     "reference": "mode/control/fgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["TEXT_FILL", "SHAPE_FILL"]
   },
@@ -9378,7 +9379,7 @@
     "refId": "mode/button/default/borderColor/active",
     "reference": "mode/button/default/borderColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -9394,7 +9395,7 @@
     "refId": "mode/button/default/borderColor/hover",
     "reference": "mode/button/default/borderColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -9410,7 +9411,7 @@
     "refId": "mode/button/default/bgColor/disabled",
     "reference": "mode/control/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9426,7 +9427,7 @@
     "refId": "mode/controlKnob/borderColor/checked",
     "reference": "mode/control/checked/bgColor/rest",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -9442,7 +9443,7 @@
     "refId": "mode/controlKnob/borderColor/disabled",
     "reference": "mode/control/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -9458,7 +9459,7 @@
     "refId": "mode/controlKnob/bgColor/disabled",
     "reference": "mode/control/bgColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["FRAME_FILL", "SHAPE_FILL"]
   },
@@ -9474,7 +9475,7 @@
     "refId": "mode/control/borderColor/disabled",
     "reference": "mode/borderColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component",
     "scopes": ["STROKE_COLOR"]
   },
@@ -9483,7 +9484,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9492,7 +9493,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9501,7 +9502,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9510,7 +9511,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9524,7 +9525,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9533,7 +9534,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9542,7 +9543,7 @@
     "value": 32,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9551,7 +9552,7 @@
     "value": 64,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9560,7 +9561,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9574,7 +9575,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9583,7 +9584,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9592,7 +9593,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9601,7 +9602,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9610,7 +9611,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9624,7 +9625,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9633,7 +9634,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9642,7 +9643,7 @@
     "value": 24,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9651,7 +9652,7 @@
     "value": 48,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9660,7 +9661,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9674,7 +9675,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9683,7 +9684,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9692,7 +9693,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9701,7 +9702,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9710,7 +9711,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9724,7 +9725,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9733,7 +9734,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9742,7 +9743,7 @@
     "value": 8,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9751,7 +9752,7 @@
     "value": 16,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9760,7 +9761,7 @@
     "value": -4,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9774,7 +9775,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9783,7 +9784,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9792,7 +9793,7 @@
     "value": 4,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9801,7 +9802,7 @@
     "value": 32,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9810,7 +9811,7 @@
     "value": -4,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9824,7 +9825,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9833,7 +9834,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9842,7 +9843,7 @@
     "value": 24,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9851,7 +9852,7 @@
     "value": 48,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9860,7 +9861,7 @@
     "value": -12,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9874,7 +9875,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9883,7 +9884,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9892,7 +9893,7 @@
     "value": 48,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9901,7 +9902,7 @@
     "value": 96,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9910,7 +9911,7 @@
     "value": -24,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9924,7 +9925,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9933,7 +9934,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9942,7 +9943,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9951,7 +9952,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9960,7 +9961,7 @@
     "value": 1,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9974,7 +9975,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9983,7 +9984,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -9992,7 +9993,7 @@
     "value": 6,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10001,7 +10002,7 @@
     "value": 12,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10010,7 +10011,7 @@
     "value": -3,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10024,7 +10025,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10033,7 +10034,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10042,7 +10043,7 @@
     "value": 6,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10051,7 +10052,7 @@
     "value": 18,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10060,7 +10061,7 @@
     "value": 0,
     "type": "FLOAT",
     "scopes": ["EFFECT_FLOAT"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10074,7 +10075,7 @@
     },
     "type": "COLOR",
     "scopes": ["EFFECT_COLOR"],
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "collection": "mode",
     "group": "shadow"
   },
@@ -10090,7 +10091,7 @@
     "refId": "mode/button/invisible/borderColor/disabled",
     "reference": "mode/control/borderColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   },
@@ -10106,7 +10107,7 @@
     "refId": "mode/button/default/borderColor/disabled",
     "reference": "mode/control/borderColor/disabled",
     "collection": "mode",
-    "mode": "dark",
+    "mode": "dark tritanopia",
     "group": "component (internal)",
     "scopes": ["STROKE_COLOR"]
   }

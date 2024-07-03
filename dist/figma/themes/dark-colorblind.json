@@ -1089,45 +1089,6 @@
     }
   },
   {
-    "name": "borderColor/upsell-emphasis",
-    "value": {
-      "r": 0.5372549019607843,
-      "g": 0.3411764705882353,
-      "b": 0.8980392156862745,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/upsell-emphasis",
-    "reference": "base/color/dark/base/color/purple/5",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-emphasis"
-    }
-  },
-  {
-    "name": "borderColor/upsell-muted",
-    "value": {
-      "r": 0.6705882352941176,
-      "g": 0.49019607843137253,
-      "b": 0.9725490196078431,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/upsell-muted",
-    "reference": "base/color/dark/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-muted)"
-    }
-  },
-  {
     "name": "borderColor/done-emphasis",
     "value": {
       "r": 0.5372549019607843,
@@ -1203,45 +1164,6 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
-    }
-  },
-  {
-    "name": "borderColor/open-emphasis",
-    "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/open-emphasis",
-    "reference": "base/color/dark/base/color/orange/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
-    }
-  },
-  {
-    "name": "borderColor/open-muted",
-    "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/open-muted",
-    "reference": "base/color/dark/base/color/orange/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
     }
   },
   {
@@ -1359,6 +1281,45 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-attention-muted) /* utility class: .color-border-attention */"
+    }
+  },
+  {
+    "name": "borderColor/open-emphasis",
+    "value": {
+      "r": 0.8588235294117647,
+      "g": 0.42745098039215684,
+      "b": 0.1568627450980392,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/open-emphasis",
+    "reference": "base/color/dark/base/color/orange/4",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
+    }
+  },
+  {
+    "name": "borderColor/open-muted",
+    "value": {
+      "r": 0.8588235294117647,
+      "g": 0.42745098039215684,
+      "b": 0.1568627450980392,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/open-muted",
+    "reference": "base/color/dark/base/color/orange/4",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
     }
   },
   {
@@ -1580,45 +1541,6 @@
     }
   },
   {
-    "name": "bgColor/upsell-emphasis",
-    "value": {
-      "r": 0.5372549019607843,
-      "g": 0.3411764705882353,
-      "b": 0.8980392156862745,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/upsell-emphasis",
-    "reference": "base/color/dark/base/color/purple/5",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-emphasis)"
-    }
-  },
-  {
-    "name": "bgColor/upsell-muted",
-    "value": {
-      "r": 0.6705882352941176,
-      "g": 0.49019607843137253,
-      "b": 0.9725490196078431,
-      "a": 0.15
-    },
-    "type": "COLOR",
-    "alpha": 0.15,
-    "refId": "mode/bgColor/upsell-muted",
-    "reference": "base/color/dark/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-muted)"
-    }
-  },
-  {
     "name": "bgColor/done-emphasis",
     "value": {
       "r": 0.5372549019607843,
@@ -1694,45 +1616,6 @@
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-closed-muted) /* utility class: .color-bg-closed */"
-    }
-  },
-  {
-    "name": "bgColor/open-emphasis",
-    "value": {
-      "r": 0.7411764705882353,
-      "g": 0.33725490196078434,
-      "b": 0.11372549019607843,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/open-emphasis",
-    "reference": "base/color/dark/base/color/orange/5",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
-    }
-  },
-  {
-    "name": "bgColor/open-muted",
-    "value": {
-      "r": 0.8588235294117647,
-      "g": 0.42745098039215684,
-      "b": 0.1568627450980392,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/bgColor/open-muted",
-    "reference": "base/color/dark/base/color/orange/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
     }
   },
   {
@@ -1850,6 +1733,45 @@
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-attention-muted) /* utility class: .color-bg-attention */"
+    }
+  },
+  {
+    "name": "bgColor/open-emphasis",
+    "value": {
+      "r": 0.7411764705882353,
+      "g": 0.33725490196078434,
+      "b": 0.11372549019607843,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/open-emphasis",
+    "reference": "base/color/dark/base/color/orange/5",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
+    }
+  },
+  {
+    "name": "bgColor/open-muted",
+    "value": {
+      "r": 0.8588235294117647,
+      "g": 0.42745098039215684,
+      "b": 0.1568627450980392,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/bgColor/open-muted",
+    "reference": "base/color/dark/base/color/orange/4",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
     }
   },
   {
@@ -2143,25 +2065,6 @@
     }
   },
   {
-    "name": "fgColor/upsell",
-    "value": {
-      "r": 0.6705882352941176,
-      "g": 0.49019607843137253,
-      "b": 0.9725490196078431,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/upsell",
-    "reference": "base/color/dark/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-upsell)"
-    }
-  },
-  {
     "name": "fgColor/done",
     "value": {
       "r": 0.6705882352941176,
@@ -2197,25 +2100,6 @@
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
-    }
-  },
-  {
-    "name": "fgColor/open",
-    "value": {
-      "r": 0.9411764705882353,
-      "g": 0.5333333333333333,
-      "b": 0.24313725490196078,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/open",
-    "reference": "base/color/dark/base/color/orange/3",
-    "collection": "mode",
-    "mode": "dark colorblind",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
     }
   },
   {
@@ -2276,6 +2160,25 @@
     }
   },
   {
+    "name": "fgColor/open",
+    "value": {
+      "r": 0.9411764705882353,
+      "g": 0.5333333333333333,
+      "b": 0.24313725490196078,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/open",
+    "reference": "base/color/dark/base/color/orange/3",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
+    }
+  },
+  {
     "name": "fgColor/success",
     "value": {
       "r": 0.34509803921568627,
@@ -2317,14 +2220,14 @@
   {
     "name": "fgColor/neutral",
     "value": {
-      "r": 0.43137254901960786,
-      "g": 0.4627450980392157,
-      "b": 0.5058823529411764,
+      "r": 0.6941176470588235,
+      "g": 0.7294117647058823,
+      "b": 0.7686274509803922,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/fgColor/neutral",
-    "reference": "base/color/dark/base/color/neutral/4",
+    "reference": "base/color/dark/base/color/neutral/2",
     "collection": "mode",
     "mode": "dark colorblind",
     "group": "semantic",
@@ -7824,6 +7727,45 @@
     "scopes": ["STROKE_COLOR"]
   },
   {
+    "name": "borderColor/upsell-emphasis",
+    "value": {
+      "r": 0.5372549019607843,
+      "g": 0.3411764705882353,
+      "b": 0.8980392156862745,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/upsell-emphasis",
+    "reference": "mode/borderColor/done-emphasis",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-emphasis"
+    }
+  },
+  {
+    "name": "borderColor/upsell-muted",
+    "value": {
+      "r": 0.6705882352941176,
+      "g": 0.49019607843137253,
+      "b": 0.9725490196078431,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/upsell-muted",
+    "reference": "mode/borderColor/done-muted",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-muted)"
+    }
+  },
+  {
     "name": "borderColor/disabled",
     "value": {
       "r": 0.12941176470588237,
@@ -7857,6 +7799,64 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-muted) /* utility class: .color-border-muted */"
+    }
+  },
+  {
+    "name": "bgColor/upsell-emphasis",
+    "value": {
+      "r": 0.5372549019607843,
+      "g": 0.3411764705882353,
+      "b": 0.8980392156862745,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/upsell-emphasis",
+    "reference": "mode/bgColor/done-emphasis",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-emphasis)"
+    }
+  },
+  {
+    "name": "bgColor/upsell-muted",
+    "value": {
+      "r": 0.6705882352941176,
+      "g": 0.49019607843137253,
+      "b": 0.9725490196078431,
+      "a": 0.15
+    },
+    "type": "COLOR",
+    "alpha": 0.15,
+    "refId": "mode/bgColor/upsell-muted",
+    "reference": "mode/bgColor/done-muted",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-muted)"
+    }
+  },
+  {
+    "name": "fgColor/upsell",
+    "value": {
+      "r": 0.6705882352941176,
+      "g": 0.49019607843137253,
+      "b": 0.9725490196078431,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/upsell",
+    "reference": "mode/fgColor/done",
+    "collection": "mode",
+    "mode": "dark colorblind",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-upsell)"
     }
   },
   {

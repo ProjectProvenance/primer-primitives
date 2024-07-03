@@ -1119,45 +1119,6 @@
     }
   },
   {
-    "name": "borderColor/upsell-emphasis",
-    "value": {
-      "r": 0.5098039215686274,
-      "g": 0.33725490196078434,
-      "b": 0.8156862745098039,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/upsell-emphasis",
-    "reference": "base/color/dark-dimmed/base/color/purple/5",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-emphasis"
-    }
-  },
-  {
-    "name": "borderColor/upsell-muted",
-    "value": {
-      "r": 0.596078431372549,
-      "g": 0.43137254901960786,
-      "b": 0.8862745098039215,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/upsell-muted",
-    "reference": "base/color/dark-dimmed/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-muted)"
-    }
-  },
-  {
     "name": "borderColor/done-emphasis",
     "value": {
       "r": 0.5098039215686274,
@@ -1194,45 +1155,6 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-done-muted) /* utility class: .color-border-done */"
-    }
-  },
-  {
-    "name": "borderColor/closed-emphasis",
-    "value": {
-      "r": 0.788235294117647,
-      "g": 0.23529411764705882,
-      "b": 0.21568627450980393,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/closed-emphasis",
-    "reference": "base/color/dark-dimmed/base/color/red/5",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-closed-emphasis) /* utility class: .color-border-closed-emphasis */"
-    }
-  },
-  {
-    "name": "borderColor/closed-muted",
-    "value": {
-      "r": 0.8980392156862745,
-      "g": 0.3254901960784314,
-      "b": 0.29411764705882354,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/closed-muted",
-    "reference": "base/color/dark-dimmed/base/color/red/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
     }
   },
   {
@@ -1571,45 +1493,6 @@
     }
   },
   {
-    "name": "bgColor/upsell-emphasis",
-    "value": {
-      "r": 0.5098039215686274,
-      "g": 0.33725490196078434,
-      "b": 0.8156862745098039,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/upsell-emphasis",
-    "reference": "base/color/dark-dimmed/base/color/purple/5",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-emphasis)"
-    }
-  },
-  {
-    "name": "bgColor/upsell-muted",
-    "value": {
-      "r": 0.596078431372549,
-      "g": 0.43137254901960786,
-      "b": 0.8862745098039215,
-      "a": 0.15
-    },
-    "type": "COLOR",
-    "alpha": 0.15,
-    "refId": "mode/bgColor/upsell-muted",
-    "reference": "base/color/dark-dimmed/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-muted)"
-    }
-  },
-  {
     "name": "bgColor/done-emphasis",
     "value": {
       "r": 0.5098039215686274,
@@ -1646,45 +1529,6 @@
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-done-muted) /* utility class: .color-bg-done */"
-    }
-  },
-  {
-    "name": "bgColor/closed-emphasis",
-    "value": {
-      "r": 0.788235294117647,
-      "g": 0.23529411764705882,
-      "b": 0.21568627450980393,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/closed-emphasis",
-    "reference": "base/color/dark-dimmed/base/color/red/5",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-closed-emphasis) /* utility class: .color-bg-closed-emphasis */"
-    }
-  },
-  {
-    "name": "bgColor/closed-muted",
-    "value": {
-      "r": 0.8980392156862745,
-      "g": 0.3254901960784314,
-      "b": 0.29411764705882354,
-      "a": 0.15
-    },
-    "type": "COLOR",
-    "alpha": 0.15,
-    "refId": "mode/bgColor/closed-muted",
-    "reference": "base/color/dark-dimmed/base/color/red/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-closed-muted) /* utility class: .color-bg-closed */"
     }
   },
   {
@@ -2095,25 +1939,6 @@
     }
   },
   {
-    "name": "fgColor/upsell",
-    "value": {
-      "r": 0.596078431372549,
-      "g": 0.43137254901960786,
-      "b": 0.8862745098039215,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/upsell",
-    "reference": "base/color/dark-dimmed/base/color/purple/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-upsell)"
-    }
-  },
-  {
     "name": "fgColor/done",
     "value": {
       "r": 0.596078431372549,
@@ -2130,25 +1955,6 @@
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--fgColor-done) /* utility class: .color-fg-done */"
-    }
-  },
-  {
-    "name": "fgColor/closed",
-    "value": {
-      "r": 0.8980392156862745,
-      "g": 0.3254901960784314,
-      "b": 0.29411764705882354,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/closed",
-    "reference": "base/color/dark-dimmed/base/color/red/4",
-    "collection": "mode",
-    "mode": "dark dimmed",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
     }
   },
   {
@@ -2250,14 +2056,14 @@
   {
     "name": "fgColor/neutral",
     "value": {
-      "r": 0.38823529411764707,
-      "g": 0.43137254901960786,
-      "b": 0.4823529411764706,
+      "r": 0.5647058823529412,
+      "g": 0.615686274509804,
+      "b": 0.6705882352941176,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/fgColor/neutral",
-    "reference": "base/color/dark-dimmed/base/color/neutral/4",
+    "reference": "base/color/dark-dimmed/base/color/neutral/2",
     "collection": "mode",
     "mode": "dark dimmed",
     "group": "semantic",
@@ -7758,6 +7564,84 @@
     "scopes": ["STROKE_COLOR"]
   },
   {
+    "name": "borderColor/upsell-emphasis",
+    "value": {
+      "r": 0.5098039215686274,
+      "g": 0.33725490196078434,
+      "b": 0.8156862745098039,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/upsell-emphasis",
+    "reference": "mode/borderColor/done-emphasis",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-emphasis"
+    }
+  },
+  {
+    "name": "borderColor/upsell-muted",
+    "value": {
+      "r": 0.596078431372549,
+      "g": 0.43137254901960786,
+      "b": 0.8862745098039215,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/upsell-muted",
+    "reference": "mode/borderColor/done-muted",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-muted)"
+    }
+  },
+  {
+    "name": "borderColor/closed-emphasis",
+    "value": {
+      "r": 0.788235294117647,
+      "g": 0.23529411764705882,
+      "b": 0.21568627450980393,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/closed-emphasis",
+    "reference": "mode/borderColor/danger-emphasis",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-closed-emphasis) /* utility class: .color-border-closed-emphasis */"
+    }
+  },
+  {
+    "name": "borderColor/closed-muted",
+    "value": {
+      "r": 0.8980392156862745,
+      "g": 0.3254901960784314,
+      "b": 0.29411764705882354,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/closed-muted",
+    "reference": "mode/borderColor/danger-muted",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
+    }
+  },
+  {
     "name": "borderColor/open-emphasis",
     "value": {
       "r": 0.20392156862745098,
@@ -7785,6 +7669,7 @@
       "a": 0.4
     },
     "type": "COLOR",
+    "alpha": 0.4,
     "refId": "mode/borderColor/open-muted",
     "reference": "mode/borderColor/success-muted",
     "collection": "mode",
@@ -7832,6 +7717,84 @@
     }
   },
   {
+    "name": "bgColor/upsell-emphasis",
+    "value": {
+      "r": 0.5098039215686274,
+      "g": 0.33725490196078434,
+      "b": 0.8156862745098039,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/upsell-emphasis",
+    "reference": "mode/bgColor/done-emphasis",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-emphasis)"
+    }
+  },
+  {
+    "name": "bgColor/upsell-muted",
+    "value": {
+      "r": 0.596078431372549,
+      "g": 0.43137254901960786,
+      "b": 0.8862745098039215,
+      "a": 0.15
+    },
+    "type": "COLOR",
+    "alpha": 0.15,
+    "refId": "mode/bgColor/upsell-muted",
+    "reference": "mode/bgColor/done-muted",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-muted)"
+    }
+  },
+  {
+    "name": "bgColor/closed-emphasis",
+    "value": {
+      "r": 0.788235294117647,
+      "g": 0.23529411764705882,
+      "b": 0.21568627450980393,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/closed-emphasis",
+    "reference": "mode/bgColor/danger-emphasis",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-closed-emphasis) /* utility class: .color-bg-closed-emphasis */"
+    }
+  },
+  {
+    "name": "bgColor/closed-muted",
+    "value": {
+      "r": 0.8980392156862745,
+      "g": 0.3254901960784314,
+      "b": 0.29411764705882354,
+      "a": 0.1
+    },
+    "type": "COLOR",
+    "alpha": 0.1,
+    "refId": "mode/bgColor/closed-muted",
+    "reference": "mode/bgColor/danger-muted",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-closed-muted) /* utility class: .color-bg-closed */"
+    }
+  },
+  {
     "name": "bgColor/open-emphasis",
     "value": {
       "r": 0.20392156862745098,
@@ -7856,10 +7819,10 @@
       "r": 0.27450980392156865,
       "g": 0.5843137254901961,
       "b": 0.2901960784313726,
-      "a": 0.1
+      "a": 0.15
     },
     "type": "COLOR",
-    "alpha": 0.1,
+    "alpha": 0.15,
     "refId": "mode/bgColor/open-muted",
     "reference": "mode/bgColor/success-muted",
     "collection": "mode",
@@ -7868,6 +7831,44 @@
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
+    }
+  },
+  {
+    "name": "fgColor/upsell",
+    "value": {
+      "r": 0.596078431372549,
+      "g": 0.43137254901960786,
+      "b": 0.8862745098039215,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/upsell",
+    "reference": "mode/fgColor/done",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-upsell)"
+    }
+  },
+  {
+    "name": "fgColor/closed",
+    "value": {
+      "r": 0.8980392156862745,
+      "g": 0.3254901960784314,
+      "b": 0.29411764705882354,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/closed",
+    "reference": "mode/fgColor/danger",
+    "collection": "mode",
+    "mode": "dark dimmed",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
     }
   },
   {

@@ -5418,7 +5418,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -7020,7 +7020,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.accent.@}",
+      "value": "{fgColor.accent}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -7485,7 +7485,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.accent.@}",
+      "value": "{fgColor.accent}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -7728,7 +7728,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -7816,7 +7816,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -7846,7 +7846,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -8484,7 +8484,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.accent.@}",
+      "value": "{fgColor.accent}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -8607,7 +8607,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -8666,7 +8666,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.danger.@}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -8766,7 +8766,7 @@
     "filePath": "src/tokens/functional/color/dark/patterns-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.link.@}",
+      "value": "{fgColor.link}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -12791,7 +12791,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{fgColor.accent.@}",
+      "value": "{fgColor.accent}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -12807,10 +12807,10 @@
     },
     "name": "fgColor-link",
     "attributes": {},
-    "path": ["fgColor", "link", "@"]
+    "path": ["fgColor", "link"]
   },
   "fgColor-neutral": {
-    "value": "#636e7b",
+    "value": "#909dab",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -12823,7 +12823,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.neutral.4}",
+      "value": "{base.color.neutral.2}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -12836,7 +12836,7 @@
     },
     "name": "fgColor-neutral",
     "attributes": {},
-    "path": ["fgColor", "neutral", "@"]
+    "path": ["fgColor", "neutral"]
   },
   "fgColor-accent": {
     "value": "#478be6",
@@ -12879,7 +12879,7 @@
     },
     "name": "fgColor-accent",
     "attributes": {},
-    "path": ["fgColor", "accent", "@"]
+    "path": ["fgColor", "accent"]
   },
   "fgColor-success": {
     "value": "#57ab5a",
@@ -12914,7 +12914,42 @@
     },
     "name": "fgColor-success",
     "attributes": {},
-    "path": ["fgColor", "success", "@"]
+    "path": ["fgColor", "success"]
+  },
+  "fgColor-open": {
+    "value": "#57ab5a",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "semantic",
+        "scopes": ["fgColor"],
+        "codeSyntax": {
+          "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
+        }
+      }
+    },
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{fgColor.success}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "semantic",
+          "scopes": ["fgColor"],
+          "codeSyntax": {
+            "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
+          }
+        }
+      }
+    },
+    "name": "fgColor-open",
+    "attributes": {},
+    "path": ["fgColor", "open"]
   },
   "fgColor-attention": {
     "value": "#c69026",
@@ -12949,7 +12984,7 @@
     },
     "name": "fgColor-attention",
     "attributes": {},
-    "path": ["fgColor", "attention", "@"]
+    "path": ["fgColor", "attention"]
   },
   "fgColor-severe": {
     "value": "#cc6b2c",
@@ -12984,7 +13019,7 @@
     },
     "name": "fgColor-severe",
     "attributes": {},
-    "path": ["fgColor", "severe", "@"]
+    "path": ["fgColor", "severe"]
   },
   "fgColor-danger": {
     "value": "#e5534b",
@@ -13019,42 +13054,7 @@
     },
     "name": "fgColor-danger",
     "attributes": {},
-    "path": ["fgColor", "danger", "@"]
-  },
-  "fgColor-open": {
-    "value": "#57ab5a",
-    "$type": "color",
-    "$extensions": {
-      "org.primer.figma": {
-        "collection": "mode",
-        "mode": "dark",
-        "group": "semantic",
-        "scopes": ["fgColor"],
-        "codeSyntax": {
-          "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
-        }
-      }
-    },
-    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
-    "isSource": true,
-    "original": {
-      "value": "{fgColor.success.@}",
-      "$type": "color",
-      "$extensions": {
-        "org.primer.figma": {
-          "collection": "mode",
-          "mode": "dark",
-          "group": "semantic",
-          "scopes": ["fgColor"],
-          "codeSyntax": {
-            "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
-          }
-        }
-      }
-    },
-    "name": "fgColor-open",
-    "attributes": {},
-    "path": ["fgColor", "open", "@"]
+    "path": ["fgColor", "danger"]
   },
   "fgColor-closed": {
     "value": "#e5534b",
@@ -13073,7 +13073,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.red.4}",
+      "value": "{fgColor.danger}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -13089,7 +13089,7 @@
     },
     "name": "fgColor-closed",
     "attributes": {},
-    "path": ["fgColor", "closed", "@"]
+    "path": ["fgColor", "closed"]
   },
   "fgColor-done": {
     "value": "#986ee2",
@@ -13124,7 +13124,7 @@
     },
     "name": "fgColor-done",
     "attributes": {},
-    "path": ["fgColor", "done", "@"]
+    "path": ["fgColor", "done"]
   },
   "fgColor-upsell": {
     "value": "#986ee2",
@@ -13143,7 +13143,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.purple.4}",
+      "value": "{fgColor.done}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -13159,7 +13159,7 @@
     },
     "name": "fgColor-upsell",
     "attributes": {},
-    "path": ["fgColor", "upsell", "@"]
+    "path": ["fgColor", "upsell"]
   },
   "fgColor-sponsors": {
     "value": "#c96198",
@@ -13194,7 +13194,7 @@
     },
     "name": "fgColor-sponsors",
     "attributes": {},
-    "path": ["fgColor", "sponsors", "@"]
+    "path": ["fgColor", "sponsors"]
   },
   "bgColor-default": {
     "value": "#22272e",
@@ -13693,6 +13693,78 @@
     "attributes": {},
     "path": ["bgColor", "success", "emphasis"]
   },
+  "bgColor-open-muted": {
+    "value": "#46954a26",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "semantic",
+        "scopes": ["bgColor"],
+        "codeSyntax": {
+          "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
+        }
+      }
+    },
+    "alpha": 0.15,
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{bgColor.success.muted}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "semantic",
+          "scopes": ["bgColor"],
+          "codeSyntax": {
+            "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
+          }
+        }
+      },
+      "alpha": 0.15
+    },
+    "name": "bgColor-open-muted",
+    "attributes": {},
+    "path": ["bgColor", "open", "muted"]
+  },
+  "bgColor-open-emphasis": {
+    "value": "#347d39",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "semantic",
+        "scopes": ["bgColor"],
+        "codeSyntax": {
+          "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
+        }
+      }
+    },
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{bgColor.success.emphasis}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "semantic",
+          "scopes": ["bgColor"],
+          "codeSyntax": {
+            "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
+          }
+        }
+      }
+    },
+    "name": "bgColor-open-emphasis",
+    "attributes": {},
+    "path": ["bgColor", "open", "emphasis"]
+  },
   "bgColor-attention-muted": {
     "value": "#ae7c1426",
     "$type": "color",
@@ -13909,80 +13981,8 @@
     "attributes": {},
     "path": ["bgColor", "danger", "emphasis"]
   },
-  "bgColor-open-muted": {
-    "value": "#46954a1a",
-    "$type": "color",
-    "$extensions": {
-      "org.primer.figma": {
-        "collection": "mode",
-        "mode": "dark",
-        "group": "semantic",
-        "scopes": ["bgColor"],
-        "codeSyntax": {
-          "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
-        }
-      }
-    },
-    "alpha": 0.1,
-    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
-    "isSource": true,
-    "original": {
-      "value": "{bgColor.success.muted}",
-      "$type": "color",
-      "$extensions": {
-        "org.primer.figma": {
-          "collection": "mode",
-          "mode": "dark",
-          "group": "semantic",
-          "scopes": ["bgColor"],
-          "codeSyntax": {
-            "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
-          }
-        }
-      },
-      "alpha": 0.1
-    },
-    "name": "bgColor-open-muted",
-    "attributes": {},
-    "path": ["bgColor", "open", "muted"]
-  },
-  "bgColor-open-emphasis": {
-    "value": "#347d39",
-    "$type": "color",
-    "$extensions": {
-      "org.primer.figma": {
-        "collection": "mode",
-        "mode": "dark",
-        "group": "semantic",
-        "scopes": ["bgColor"],
-        "codeSyntax": {
-          "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
-        }
-      }
-    },
-    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
-    "isSource": true,
-    "original": {
-      "value": "{bgColor.success.emphasis}",
-      "$type": "color",
-      "$extensions": {
-        "org.primer.figma": {
-          "collection": "mode",
-          "mode": "dark",
-          "group": "semantic",
-          "scopes": ["bgColor"],
-          "codeSyntax": {
-            "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
-          }
-        }
-      }
-    },
-    "name": "bgColor-open-emphasis",
-    "attributes": {},
-    "path": ["bgColor", "open", "emphasis"]
-  },
   "bgColor-closed-muted": {
-    "value": "#e5534b26",
+    "value": "#e5534b1a",
     "$type": "color",
     "$extensions": {
       "org.primer.figma": {
@@ -13995,11 +13995,11 @@
         }
       }
     },
-    "alpha": 0.15,
+    "alpha": 0.1,
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.red.4}",
+      "value": "{bgColor.danger.muted}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -14012,7 +14012,7 @@
           }
         }
       },
-      "alpha": 0.15
+      "alpha": 0.1
     },
     "name": "bgColor-closed-muted",
     "attributes": {},
@@ -14035,7 +14035,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.red.5}",
+      "value": "{bgColor.danger.emphasis}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -14143,7 +14143,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.purple.4}",
+      "value": "{bgColor.done.muted}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -14179,7 +14179,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.purple.5}",
+      "value": "{bgColor.done.emphasis}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -14663,6 +14663,78 @@
     "attributes": {},
     "path": ["borderColor", "success", "emphasis"]
   },
+  "borderColor-open-muted": {
+    "value": "#46954a66",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "semantic",
+        "scopes": ["borderColor"],
+        "codeSyntax": {
+          "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
+        }
+      }
+    },
+    "alpha": 0.4,
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{borderColor.success.muted}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "semantic",
+          "scopes": ["borderColor"],
+          "codeSyntax": {
+            "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
+          }
+        }
+      },
+      "alpha": 0.4
+    },
+    "name": "borderColor-open-muted",
+    "attributes": {},
+    "path": ["borderColor", "open", "muted"]
+  },
+  "borderColor-open-emphasis": {
+    "value": "#347d39",
+    "$type": "color",
+    "$extensions": {
+      "org.primer.figma": {
+        "collection": "mode",
+        "mode": "dark",
+        "group": "semantic",
+        "scopes": ["borderColor"],
+        "codeSyntax": {
+          "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
+        }
+      }
+    },
+    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
+    "isSource": true,
+    "original": {
+      "value": "{borderColor.success.emphasis}",
+      "$type": "color",
+      "$extensions": {
+        "org.primer.figma": {
+          "collection": "mode",
+          "mode": "dark",
+          "group": "semantic",
+          "scopes": ["borderColor"],
+          "codeSyntax": {
+            "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
+          }
+        }
+      }
+    },
+    "name": "borderColor-open-emphasis",
+    "attributes": {},
+    "path": ["borderColor", "open", "emphasis"]
+  },
   "borderColor-attention-muted": {
     "value": "#ae7c1466",
     "$type": "color",
@@ -14879,76 +14951,6 @@
     "attributes": {},
     "path": ["borderColor", "danger", "emphasis"]
   },
-  "borderColor-open-muted": {
-    "value": "#46954a66",
-    "$type": "color",
-    "$extensions": {
-      "org.primer.figma": {
-        "collection": "mode",
-        "mode": "dark",
-        "group": "semantic",
-        "scopes": ["borderColor"],
-        "codeSyntax": {
-          "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
-        }
-      }
-    },
-    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
-    "isSource": true,
-    "original": {
-      "value": "{borderColor.success.muted}",
-      "$type": "color",
-      "$extensions": {
-        "org.primer.figma": {
-          "collection": "mode",
-          "mode": "dark",
-          "group": "semantic",
-          "scopes": ["borderColor"],
-          "codeSyntax": {
-            "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
-          }
-        }
-      }
-    },
-    "name": "borderColor-open-muted",
-    "attributes": {},
-    "path": ["borderColor", "open", "muted"]
-  },
-  "borderColor-open-emphasis": {
-    "value": "#347d39",
-    "$type": "color",
-    "$extensions": {
-      "org.primer.figma": {
-        "collection": "mode",
-        "mode": "dark",
-        "group": "semantic",
-        "scopes": ["borderColor"],
-        "codeSyntax": {
-          "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
-        }
-      }
-    },
-    "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
-    "isSource": true,
-    "original": {
-      "value": "{borderColor.success.emphasis}",
-      "$type": "color",
-      "$extensions": {
-        "org.primer.figma": {
-          "collection": "mode",
-          "mode": "dark",
-          "group": "semantic",
-          "scopes": ["borderColor"],
-          "codeSyntax": {
-            "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
-          }
-        }
-      }
-    },
-    "name": "borderColor-open-emphasis",
-    "attributes": {},
-    "path": ["borderColor", "open", "emphasis"]
-  },
   "borderColor-closed-muted": {
     "value": "#e5534b66",
     "$type": "color",
@@ -14967,7 +14969,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.red.4}",
+      "value": "{borderColor.danger.muted}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -15003,7 +15005,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.red.5}",
+      "value": "{borderColor.danger.emphasis}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -15111,7 +15113,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.purple.4}",
+      "value": "{borderColor.done.muted}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {
@@ -15147,7 +15149,7 @@
     "filePath": "src/tokens/functional/color/dark/primitives-dark.json5",
     "isSource": true,
     "original": {
-      "value": "{base.color.purple.5}",
+      "value": "{borderColor.done.emphasis}",
       "$type": "color",
       "$extensions": {
         "org.primer.figma": {

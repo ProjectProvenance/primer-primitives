@@ -989,45 +989,6 @@
     }
   },
   {
-    "name": "borderColor/upsell-emphasis",
-    "value": {
-      "r": 0.5098039215686274,
-      "g": 0.3137254901960784,
-      "b": 0.8745098039215686,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/upsell-emphasis",
-    "reference": "base/color/light/base/color/purple/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-emphasis)"
-    }
-  },
-  {
-    "name": "borderColor/upsell-muted",
-    "value": {
-      "r": 0.7607843137254902,
-      "g": 0.592156862745098,
-      "b": 1,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/upsell-muted",
-    "reference": "base/color/light/base/color/purple/3",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-upsell-muted)"
-    }
-  },
-  {
     "name": "borderColor/done-emphasis",
     "value": {
       "r": 0.5098039215686274,
@@ -1103,45 +1064,6 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-closed-muted) /* utility class: .color-border-closed */"
-    }
-  },
-  {
-    "name": "borderColor/open-emphasis",
-    "value": {
-      "r": 0.8117647058823529,
-      "g": 0.13333333333333333,
-      "b": 0.1803921568627451,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/borderColor/open-emphasis",
-    "reference": "base/color/light/base/color/red/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
-    }
-  },
-  {
-    "name": "borderColor/open-muted",
-    "value": {
-      "r": 1,
-      "g": 0.5058823529411764,
-      "b": 0.5098039215686274,
-      "a": 0.4
-    },
-    "type": "COLOR",
-    "alpha": 0.4,
-    "refId": "mode/borderColor/open-muted",
-    "reference": "base/color/light/base/color/red/3",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["STROKE_COLOR"],
-    "codeSyntax": {
-      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
     }
   },
   {
@@ -1262,16 +1184,55 @@
     }
   },
   {
+    "name": "borderColor/open-emphasis",
+    "value": {
+      "r": 0.8117647058823529,
+      "g": 0.13333333333333333,
+      "b": 0.1803921568627451,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/open-emphasis",
+    "reference": "base/color/light/base/color/red/5",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-open-emphasis) /* utility class: .color-border-open-emphasis */"
+    }
+  },
+  {
+    "name": "borderColor/open-muted",
+    "value": {
+      "r": 1,
+      "g": 0.5058823529411764,
+      "b": 0.5098039215686274,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/open-muted",
+    "reference": "base/color/light/base/color/red/3",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-open-muted) /* utility class: .color-border-open */"
+    }
+  },
+  {
     "name": "borderColor/success-emphasis",
     "value": {
-      "r": 0.12941176470588237,
-      "g": 0.5450980392156862,
-      "b": 1,
+      "r": 0.03529411764705882,
+      "g": 0.4117647058823529,
+      "b": 0.8549019607843137,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/borderColor/success-emphasis",
-    "reference": "base/color/light/base/color/blue/4",
+    "reference": "base/color/light/base/color/blue/5",
     "collection": "mode",
     "mode": "light tritanopia",
     "group": "semantic",
@@ -1479,44 +1440,6 @@
     }
   },
   {
-    "name": "bgColor/upsell-emphasis",
-    "value": {
-      "r": 0.5098039215686274,
-      "g": 0.3137254901960784,
-      "b": 0.8745098039215686,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/upsell-emphasis",
-    "reference": "base/color/light/base/color/purple/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-emphasis)"
-    }
-  },
-  {
-    "name": "bgColor/upsell-muted",
-    "value": {
-      "r": 0.984313725490196,
-      "g": 0.9372549019607843,
-      "b": 1,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/upsell-muted",
-    "reference": "base/color/light/base/color/purple/0",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-upsell-muted)"
-    }
-  },
-  {
     "name": "bgColor/done-emphasis",
     "value": {
       "r": 0.5098039215686274,
@@ -1590,44 +1513,6 @@
     "scopes": ["FRAME_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--bgColor-closed-muted) /* utility class: .color-bg-closed */"
-    }
-  },
-  {
-    "name": "bgColor/open-emphasis",
-    "value": {
-      "r": 0.8117647058823529,
-      "g": 0.13333333333333333,
-      "b": 0.1803921568627451,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/open-emphasis",
-    "reference": "base/color/light/base/color/red/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
-    }
-  },
-  {
-    "name": "bgColor/open-muted",
-    "value": {
-      "r": 1,
-      "g": 0.9215686274509803,
-      "b": 0.9137254901960784,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/bgColor/open-muted",
-    "reference": "base/color/light/base/color/red/0",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
     }
   },
   {
@@ -1745,17 +1630,54 @@
     }
   },
   {
-    "name": "bgColor/success-emphasis",
+    "name": "bgColor/open-emphasis",
     "value": {
-      "r": 0.058823529411764705,
-      "g": 0.4470588235294118,
-      "b": 0.8901960784313725,
+      "r": 0.8117647058823529,
+      "g": 0.13333333333333333,
+      "b": 0.1803921568627451,
       "a": 1
     },
     "type": "COLOR",
-    "isMix": true,
+    "refId": "mode/bgColor/open-emphasis",
+    "reference": "base/color/light/base/color/red/5",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-emphasis) /* utility class: .color-bg-success-emphasis */"
+    }
+  },
+  {
+    "name": "bgColor/open-muted",
+    "value": {
+      "r": 1,
+      "g": 0.9215686274509803,
+      "b": 0.9137254901960784,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/open-muted",
+    "reference": "base/color/light/base/color/red/0",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-success-muted) /* utility class: .color-bg-success */"
+    }
+  },
+  {
+    "name": "bgColor/success-emphasis",
+    "value": {
+      "r": 0.03529411764705882,
+      "g": 0.4117647058823529,
+      "b": 0.8549019607843137,
+      "a": 1
+    },
+    "type": "COLOR",
     "refId": "mode/bgColor/success-emphasis",
-    "reference": "base/color/light/base/color/blue/4",
+    "reference": "base/color/light/base/color/blue/5",
     "collection": "mode",
     "mode": "light tritanopia",
     "group": "semantic",
@@ -2034,25 +1956,6 @@
     }
   },
   {
-    "name": "fgColor/upsell",
-    "value": {
-      "r": 0.5098039215686274,
-      "g": 0.3137254901960784,
-      "b": 0.8745098039215686,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/upsell",
-    "reference": "base/color/light/base/color/purple/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-upsell)"
-    }
-  },
-  {
     "name": "fgColor/done",
     "value": {
       "r": 0.5098039215686274,
@@ -2088,25 +1991,6 @@
     "scopes": ["TEXT_FILL", "SHAPE_FILL"],
     "codeSyntax": {
       "web": "var(--fgColor-closed) /* utility class: .color-fg-closed */"
-    }
-  },
-  {
-    "name": "fgColor/open",
-    "value": {
-      "r": 0.8117647058823529,
-      "g": 0.13333333333333333,
-      "b": 0.1803921568627451,
-      "a": 1
-    },
-    "type": "COLOR",
-    "refId": "mode/fgColor/open",
-    "reference": "base/color/light/base/color/red/5",
-    "collection": "mode",
-    "mode": "light tritanopia",
-    "group": "semantic",
-    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
-    "codeSyntax": {
-      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
     }
   },
   {
@@ -2168,6 +2052,25 @@
     }
   },
   {
+    "name": "fgColor/open",
+    "value": {
+      "r": 0.8117647058823529,
+      "g": 0.13333333333333333,
+      "b": 0.1803921568627451,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/open",
+    "reference": "base/color/light/base/color/red/5",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-open) /* utility class: .color-fg-open */"
+    }
+  },
+  {
     "name": "fgColor/success",
     "value": {
       "r": 0.03529411764705882,
@@ -2208,14 +2111,14 @@
   {
     "name": "fgColor/neutral",
     "value": {
-      "r": 0.43137254901960786,
-      "g": 0.4666666666666667,
-      "b": 0.5058823529411764,
+      "r": 0.3411764705882353,
+      "g": 0.3764705882352941,
+      "b": 0.41568627450980394,
       "a": 1
     },
     "type": "COLOR",
     "refId": "mode/fgColor/neutral",
-    "reference": "base/color/light/base/color/neutral/5",
+    "reference": "base/color/light/base/color/neutral/6",
     "collection": "mode",
     "mode": "light tritanopia",
     "group": "semantic",
@@ -7578,6 +7481,45 @@
     "scopes": ["STROKE_COLOR"]
   },
   {
+    "name": "borderColor/upsell-emphasis",
+    "value": {
+      "r": 0.5098039215686274,
+      "g": 0.3137254901960784,
+      "b": 0.8745098039215686,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/borderColor/upsell-emphasis",
+    "reference": "mode/borderColor/done-emphasis",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-emphasis)"
+    }
+  },
+  {
+    "name": "borderColor/upsell-muted",
+    "value": {
+      "r": 0.7607843137254902,
+      "g": 0.592156862745098,
+      "b": 1,
+      "a": 0.4
+    },
+    "type": "COLOR",
+    "alpha": 0.4,
+    "refId": "mode/borderColor/upsell-muted",
+    "reference": "mode/borderColor/done-muted",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["STROKE_COLOR"],
+    "codeSyntax": {
+      "web": "var(--borderColor-upsell-muted)"
+    }
+  },
+  {
     "name": "borderColor/disabled",
     "value": {
       "r": 0.9176470588235294,
@@ -7611,6 +7553,63 @@
     "scopes": ["STROKE_COLOR"],
     "codeSyntax": {
       "web": "var(--borderColor-muted) /* utility class: .color-border-muted */"
+    }
+  },
+  {
+    "name": "bgColor/upsell-emphasis",
+    "value": {
+      "r": 0.5098039215686274,
+      "g": 0.3137254901960784,
+      "b": 0.8745098039215686,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/upsell-emphasis",
+    "reference": "mode/bgColor/done-emphasis",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-emphasis)"
+    }
+  },
+  {
+    "name": "bgColor/upsell-muted",
+    "value": {
+      "r": 0.984313725490196,
+      "g": 0.9372549019607843,
+      "b": 1,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/bgColor/upsell-muted",
+    "reference": "mode/bgColor/done-muted",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["FRAME_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--bgColor-upsell-muted)"
+    }
+  },
+  {
+    "name": "fgColor/upsell",
+    "value": {
+      "r": 0.5098039215686274,
+      "g": 0.3137254901960784,
+      "b": 0.8745098039215686,
+      "a": 1
+    },
+    "type": "COLOR",
+    "refId": "mode/fgColor/upsell",
+    "reference": "mode/fgColor/done",
+    "collection": "mode",
+    "mode": "light tritanopia",
+    "group": "semantic",
+    "scopes": ["TEXT_FILL", "SHAPE_FILL"],
+    "codeSyntax": {
+      "web": "var(--fgColor-upsell)"
     }
   },
   {
@@ -8254,9 +8253,9 @@
   {
     "name": "button/primary/bgColor/active",
     "value": {
-      "r": 0.043137254901960784,
-      "g": 0.39215686274509803,
-      "b": 0.807843137254902,
+      "r": 0.027450980392156862,
+      "g": 0.37254901960784315,
+      "b": 0.7843137254901961,
       "a": 1
     },
     "type": "COLOR",
@@ -8271,9 +8270,9 @@
   {
     "name": "button/primary/bgColor/hover",
     "value": {
-      "r": 0.050980392156862744,
-      "g": 0.4196078431372549,
-      "b": 0.8470588235294118,
+      "r": 0.03137254901960784,
+      "g": 0.39215686274509803,
+      "b": 0.8196078431372549,
       "a": 1
     },
     "type": "COLOR",
@@ -8288,9 +8287,9 @@
   {
     "name": "button/primary/bgColor/rest",
     "value": {
-      "r": 0.058823529411764705,
-      "g": 0.4470588235294118,
-      "b": 0.8901960784313725,
+      "r": 0.03529411764705882,
+      "g": 0.4117647058823529,
+      "b": 0.8549019607843137,
       "a": 1
     },
     "type": "COLOR",
@@ -8838,9 +8837,9 @@
   {
     "name": "control/borderColor/success",
     "value": {
-      "r": 0.12941176470588237,
-      "g": 0.5450980392156862,
-      "b": 1,
+      "r": 0.03529411764705882,
+      "g": 0.4117647058823529,
+      "b": 0.8549019607843137,
       "a": 1
     },
     "type": "COLOR",
